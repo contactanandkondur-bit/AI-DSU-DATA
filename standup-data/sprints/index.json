@@ -1,0 +1,244 @@
+[
+  {
+    "id": "sprint_1780082823420_fflys",
+    "pin": "194139",
+    "name": "Sprint 1",
+    "startDate": "2026-05-30",
+    "endDate": "2026-06-07",
+    "windowStart": "00:00",
+    "windowEnd": "10:00",
+    "members": [
+      {
+        "name": "Arjun Mehta",
+        "tickets": [
+          {
+            "ticketId": "PROJ-101",
+            "description": "Implement OAuth2 login and session management",
+            "assignedTo": "Arjun Mehta",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-102",
+            "description": "Write unit tests for authentication module",
+            "assignedTo": "Arjun Mehta",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-103",
+            "description": "Fix token expiry bug on mobile clients",
+            "assignedTo": "Arjun Mehta",
+            "status": "In Progress"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Thompson",
+        "tickets": [
+          {
+            "ticketId": "PROJ-104",
+            "description": "Design and build the main dashboard UI",
+            "assignedTo": "Sarah Thompson",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-105",
+            "description": "Create reusable card and table components",
+            "assignedTo": "Sarah Thompson",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-106",
+            "description": "Accessibility audit for dashboard screens",
+            "assignedTo": "Sarah Thompson",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Johnson",
+        "tickets": [
+          {
+            "ticketId": "PROJ-107",
+            "description": "Build REST API endpoints for user management",
+            "assignedTo": "Marcus Johnson",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-108",
+            "description": "Set up API rate limiting and throttling",
+            "assignedTo": "Marcus Johnson",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-109",
+            "description": "Document all API endpoints in Swagger",
+            "assignedTo": "Marcus Johnson",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Priya Nair",
+        "tickets": [
+          {
+            "ticketId": "PROJ-110",
+            "description": "Database schema design for sprint data",
+            "assignedTo": "Priya Nair",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-111",
+            "description": "Write migration scripts for v1 to v2 schema",
+            "assignedTo": "Priya Nair",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-112",
+            "description": "Performance tuning on slow query endpoints",
+            "assignedTo": "Priya Nair",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "David Kim",
+        "tickets": [
+          {
+            "ticketId": "PROJ-113",
+            "description": "Configure CI/CD pipeline using GitHub Actions",
+            "assignedTo": "David Kim",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-114",
+            "description": "Set up staging and production environments",
+            "assignedTo": "David Kim",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-115",
+            "description": "Containerise app using Docker",
+            "assignedTo": "David Kim",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Leila Hassan",
+        "tickets": [
+          {
+            "ticketId": "PROJ-116",
+            "description": "Build notification service for standup reminders",
+            "assignedTo": "Leila Hassan",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-117",
+            "description": "Integrate browser push notification API",
+            "assignedTo": "Leila Hassan",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-118",
+            "description": "Test notification delivery across browsers",
+            "assignedTo": "Leila Hassan",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "James O'Brien",
+        "tickets": [
+          {
+            "ticketId": "PROJ-119",
+            "description": "Develop sprint summary email template",
+            "assignedTo": "James O'Brien",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-120",
+            "description": "Implement copy-to-clipboard for email export",
+            "assignedTo": "James O'Brien",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-121",
+            "description": "Build email preview page in admin panel",
+            "assignedTo": "James O'Brien",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Ananya Sharma",
+        "tickets": [
+          {
+            "ticketId": "PROJ-122",
+            "description": "Create sprint dashboard with charts and KPIs",
+            "assignedTo": "Ananya Sharma",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-123",
+            "description": "Build velocity trend chart across sprints",
+            "assignedTo": "Ananya Sharma",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-124",
+            "description": "Add blocker tracking and flagging on dashboard",
+            "assignedTo": "Ananya Sharma",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Rivera",
+        "tickets": [
+          {
+            "ticketId": "PROJ-125",
+            "description": "Integrate Claude AI API for standup bot",
+            "assignedTo": "Carlos Rivera",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-126",
+            "description": "Tune bot prompts for professional tone",
+            "assignedTo": "Carlos Rivera",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-127",
+            "description": "Handle off-topic redirection in bot logic",
+            "assignedTo": "Carlos Rivera",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "name": "Fatima Al-Zahra",
+        "tickets": [
+          {
+            "ticketId": "PROJ-128",
+            "description": "QA testing for sprint creation flow",
+            "assignedTo": "Fatima Al-Zahra",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-129",
+            "description": "End-to-end testing for standup chat window",
+            "assignedTo": "Fatima Al-Zahra",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-130",
+            "description": "Regression testing after Phase 2 deployment",
+            "assignedTo": "Fatima Al-Zahra",
+            "status": "To Do"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-05-29T19:27:03.420Z"
+  }
+]
