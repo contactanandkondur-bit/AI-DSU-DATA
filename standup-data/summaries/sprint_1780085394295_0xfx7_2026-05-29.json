@@ -1,0 +1,21 @@
+{
+  "sprintId": "sprint_1780085394295_0xfx7",
+  "date": "2026-05-29",
+  "summaries": {
+    "arjun.mehta@deloitte.com": {
+      "memberName": "Arjun Mehta",
+      "memberEmail": "arjun.mehta@deloitte.com",
+      "date": "2026-05-30",
+      "yesterday": "Arjun did not report any work done yesterday.",
+      "today": "Arjun did not provide any information on what he plans to work on today.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "ticketsDiscussed": [
+        "PROJ-101",
+        "PROJ-102",
+        "PROJ-103"
+      ],
+      "overallStatus": "At Risk"
+    }
+  }
+}
