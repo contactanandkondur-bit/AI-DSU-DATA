@@ -16,6 +16,47 @@
         "PROJ-103"
       ],
       "overallStatus": "At Risk"
+    },
+    "priya.nair@deloitte.com": {
+      "memberName": "Priya Nair",
+      "memberEmail": "priya.nair@deloitte.com",
+      "date": "2026-05-30",
+      "yesterday": "Worked on PROJ-111: Write migration scripts for v1 to v2 schema, made progress of around 50%",
+      "today": "Plans to continue working on PROJ-111 to meet the completion target by tomorrow",
+      "blockers": "Needs PWA access for PROJ-112: Performance tuning on slow query endpoints",
+      "hasBlocker": true,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified if PWA access is obtained",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-110",
+          "status": "Done",
+          "eta": "Already complete",
+          "percentComplete": "100",
+          "notes": "In code review"
+        },
+        {
+          "ticketId": "PROJ-111",
+          "status": "In Progress",
+          "eta": "Tomorrow",
+          "percentComplete": "50",
+          "notes": ""
+        },
+        {
+          "ticketId": "PROJ-112",
+          "status": "To Do",
+          "eta": "Later",
+          "percentComplete": "0",
+          "notes": "Needs PWA access"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-110",
+        "PROJ-111",
+        "PROJ-112"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "Follow up on PWA access for PROJ-112"
     }
   }
 }
