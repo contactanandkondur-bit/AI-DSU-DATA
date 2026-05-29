@@ -1,0 +1,48 @@
+{
+  "sprintId": "sprint_1780085394295_0xfx7",
+  "date": "2026-05-29",
+  "updates": {
+    "arjun.mehta@deloitte.com": {
+      "memberName": "Arjun Mehta",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Hello Arjun, I'd like to conduct our daily standup. Can you please tell me what you worked on yesterday, specifically in relation to your assigned sprint tickets, such as [PROJ-101] or [PROJ-103]?"
+        },
+        {
+          "role": "user",
+          "content": "Hi"
+        },
+        {
+          "role": "assistant",
+          "content": "Arjun, to continue with our standup, can you please tell me what you worked on yesterday, specifically in relation to your assigned sprint tickets, such as [PROJ-101] or [PROJ-103]?"
+        },
+        {
+          "role": "user",
+          "content": "for PRoj-101 and 103  , i am doing the development"
+        },
+        {
+          "role": "assistant",
+          "content": "Arjun, so you were working on the development for [PROJ-101] and [PROJ-103] yesterday. What are your plans for today, will you be continuing with the development of these tickets or moving on to [PROJ-102] to write unit tests for the authentication module?"
+        },
+        {
+          "role": "user",
+          "content": "i will be doing the development bot 101 and 103 today and will be completing them by tomorrow"
+        },
+        {
+          "role": "assistant",
+          "content": "Arjun, it's good to hear that you're making progress on [PROJ-101] and [PROJ-103]. Are there any blockers or challenges that you're currently facing with these tickets, or anything that might hinder your progress in completing them by tomorrow?"
+        },
+        {
+          "role": "user",
+          "content": "There are no blockers or anything from my side , only thing is i want access to PWA repo"
+        },
+        {
+          "role": "assistant",
+          "content": "Arjun, I've noted that you need access to the PWA repo, I will flag this for the Scrum Master to assist with. \n\nI will ensure that your request is communicated to the relevant team members, have a productive day."
+        }
+      ],
+      "submittedAt": "2026-05-29T20:12:35.692Z"
+    }
+  }
+}
