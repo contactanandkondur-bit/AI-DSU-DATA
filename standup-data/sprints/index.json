@@ -750,5 +750,258 @@
     "createdAt": "2026-05-29T19:53:04.724Z",
     "closed": true,
     "closedAt": "2026-05-29T20:09:21.222Z"
+  },
+  {
+    "id": "sprint_1780085394295_0xfx7",
+    "pin": "920083",
+    "name": "Sprint 4",
+    "startDate": "2026-05-30",
+    "endDate": "2026-06-07",
+    "windowStart": "00:00",
+    "windowEnd": "10:00",
+    "members": [
+      {
+        "email": "arjun.mehta@deloitte.com",
+        "name": "Arjun Mehta",
+        "tickets": [
+          {
+            "ticketId": "PROJ-101",
+            "description": "Implement OAuth2 login and session management",
+            "assignedTo": "arjun.mehta@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-102",
+            "description": "Write unit tests for authentication module",
+            "assignedTo": "arjun.mehta@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-103",
+            "description": "Fix token expiry bug on mobile clients",
+            "assignedTo": "arjun.mehta@deloitte.com",
+            "status": "In Progress"
+          }
+        ]
+      },
+      {
+        "email": "sarah.thompson@deloitte.com",
+        "name": "Sarah Thompson",
+        "tickets": [
+          {
+            "ticketId": "PROJ-104",
+            "description": "Design and build the main dashboard UI",
+            "assignedTo": "sarah.thompson@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-105",
+            "description": "Create reusable card and table components",
+            "assignedTo": "sarah.thompson@deloitte.com",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-106",
+            "description": "Accessibility audit for dashboard screens",
+            "assignedTo": "sarah.thompson@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "marcus.johnson@deloitte.com",
+        "name": "Marcus Johnson",
+        "tickets": [
+          {
+            "ticketId": "PROJ-107",
+            "description": "Build REST API endpoints for user management",
+            "assignedTo": "marcus.johnson@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-108",
+            "description": "Set up API rate limiting and throttling",
+            "assignedTo": "marcus.johnson@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-109",
+            "description": "Document all API endpoints in Swagger",
+            "assignedTo": "marcus.johnson@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "priya.nair@deloitte.com",
+        "name": "Priya Nair",
+        "tickets": [
+          {
+            "ticketId": "PROJ-110",
+            "description": "Database schema design for sprint data",
+            "assignedTo": "priya.nair@deloitte.com",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-111",
+            "description": "Write migration scripts for v1 to v2 schema",
+            "assignedTo": "priya.nair@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-112",
+            "description": "Performance tuning on slow query endpoints",
+            "assignedTo": "priya.nair@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "david.kim@deloitte.com",
+        "name": "David Kim",
+        "tickets": [
+          {
+            "ticketId": "PROJ-113",
+            "description": "Configure CI/CD pipeline using GitHub Actions",
+            "assignedTo": "david.kim@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-114",
+            "description": "Set up staging and production environments",
+            "assignedTo": "david.kim@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-115",
+            "description": "Containerise app using Docker",
+            "assignedTo": "david.kim@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "leila.hassan@deloitte.com",
+        "name": "Leila Hassan",
+        "tickets": [
+          {
+            "ticketId": "PROJ-116",
+            "description": "Build notification service for standup reminders",
+            "assignedTo": "leila.hassan@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-117",
+            "description": "Integrate browser push notification API",
+            "assignedTo": "leila.hassan@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-118",
+            "description": "Test notification delivery across browsers",
+            "assignedTo": "leila.hassan@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "james.obrien@deloitte.com",
+        "name": "James O'Brien",
+        "tickets": [
+          {
+            "ticketId": "PROJ-119",
+            "description": "Develop sprint summary email template",
+            "assignedTo": "james.obrien@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-120",
+            "description": "Implement copy-to-clipboard for email export",
+            "assignedTo": "james.obrien@deloitte.com",
+            "status": "Done"
+          },
+          {
+            "ticketId": "PROJ-121",
+            "description": "Build email preview page in admin panel",
+            "assignedTo": "james.obrien@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "ananya.sharma@deloitte.com",
+        "name": "Ananya Sharma",
+        "tickets": [
+          {
+            "ticketId": "PROJ-122",
+            "description": "Create sprint dashboard with charts and KPIs",
+            "assignedTo": "ananya.sharma@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-123",
+            "description": "Build velocity trend chart across sprints",
+            "assignedTo": "ananya.sharma@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-124",
+            "description": "Add blocker tracking and flagging on dashboard",
+            "assignedTo": "ananya.sharma@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "carlos.rivera@deloitte.com",
+        "name": "Carlos Rivera",
+        "tickets": [
+          {
+            "ticketId": "PROJ-125",
+            "description": "Integrate Groq AI API for standup bot",
+            "assignedTo": "carlos.rivera@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-126",
+            "description": "Tune bot prompts for professional tone",
+            "assignedTo": "carlos.rivera@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-127",
+            "description": "Handle off-topic redirection in bot logic",
+            "assignedTo": "carlos.rivera@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      },
+      {
+        "email": "fatima.alzahra@deloitte.com",
+        "name": "Fatima Al-Zahra",
+        "tickets": [
+          {
+            "ticketId": "PROJ-128",
+            "description": "QA testing for sprint creation flow",
+            "assignedTo": "fatima.alzahra@deloitte.com",
+            "status": "In Progress"
+          },
+          {
+            "ticketId": "PROJ-129",
+            "description": "End-to-end testing for standup chat window",
+            "assignedTo": "fatima.alzahra@deloitte.com",
+            "status": "To Do"
+          },
+          {
+            "ticketId": "PROJ-130",
+            "description": "Regression testing after Phase 2 deployment",
+            "assignedTo": "fatima.alzahra@deloitte.com",
+            "status": "To Do"
+          }
+        ]
+      }
+    ],
+    "closed": false,
+    "createdAt": "2026-05-29T20:09:54.295Z"
   }
 ]
