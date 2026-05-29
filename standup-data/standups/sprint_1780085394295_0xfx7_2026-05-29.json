@@ -27,6 +27,48 @@
         }
       ],
       "submittedAt": "2026-05-29T20:14:38.638Z"
+    },
+    "sarah.thompson@deloitte.com": {
+      "memberName": "Sarah Thompson",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Hello Sarah, let's begin the daily standup. Can you tell me what you worked on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Can you tell me what ticekts are assigned to me"
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, you have three sprint tickets assigned to you: [PROJ-104] Design and build the main dashboard UI, which is currently in progress, [PROJ-105] Create reusable card and table components, which is marked as done, and [PROJ-106] Accessibility audit for dashboard screens, which is still to do. Now, can you tell me what you worked on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "i have worked on 104 and completed the design dashboard"
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, that's a good update on [PROJ-104]. You've completed the design for the main dashboard UI. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "i am planning to do the unit testing of it today."
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, unit testing is a crucial step for [PROJ-104]. Are you experiencing any blockers or challenges that might hinder your progress on this task or any other assigned tickets, such as [PROJ-106] which is still pending?"
+        },
+        {
+          "role": "user",
+          "content": "i dont have any blockers , but i need pwa access"
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, I've noted that you need PWA access. I'll flag this as a potential blocker and notify the Scrum Master to assist with providing the necessary access. Thank you, Sarah, that's everything I need for today's standup. Your update has been recorded and your Scrum Master will be notified. Have a productive day!"
+        }
+      ],
+      "submittedAt": "2026-05-29T20:19:59.058Z"
     }
   }
 }
