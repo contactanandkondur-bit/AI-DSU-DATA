@@ -66,9 +66,21 @@
         {
           "role": "assistant",
           "content": "Sarah, I've noted that you need PWA access. I'll flag this as a potential blocker and notify the Scrum Master to assist with providing the necessary access. Thank you, Sarah, that's everything I need for today's standup. Your update has been recorded and your Scrum Master will be notified. Have a productive day!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, you've reviewed your standup summary, which includes working on [PROJ-104] and completing the design dashboard, planning to do unit testing today, and needing PWA access. Is there anything you'd like to change, add, or update from what you've already shared?"
+        },
+        {
+          "role": "user",
+          "content": "i want to add that the eta for for 104 ticekts is tomorrow"
+        },
+        {
+          "role": "assistant",
+          "content": "Sarah, I've added that update to your standup notes: you're expecting to complete [PROJ-104] by tomorrow. Thank you, Sarah, that's everything I need for today's standup. Your update has been recorded and your Scrum Master will be notified. Have a productive day!"
         }
       ],
-      "submittedAt": "2026-05-29T20:19:59.058Z"
+      "submittedAt": "2026-05-29T20:20:35.738Z"
     }
   }
 }
