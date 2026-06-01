@@ -1,0 +1,44 @@
+{
+  "sprintId": "sprint_1780331690115_j0a4x",
+  "date": "2026-06-01",
+  "summaries": {
+    "david.kim@deloitte.com": {
+      "memberName": "David Kim",
+      "memberEmail": "david.kim@deloitte.com",
+      "date": "2026-06-01",
+      "yesterday": "No previous work to report, first day of the sprint",
+      "today": "Working on PROJ-113 and PROJ-114",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "Potential risk of not completing all assigned tickets by the end of the sprint",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-113",
+          "description": "No description provided",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Progress",
+          "eta": null,
+          "percentComplete": 50,
+          "notes": "Estimated to be 50% complete by the end of the day"
+        },
+        {
+          "ticketId": "PROJ-114",
+          "description": "No description provided",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Progress",
+          "eta": null,
+          "percentComplete": 80,
+          "notes": "Estimated to be 80% complete by the end of the day"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-113",
+        "PROJ-114",
+        "PROJ-115"
+      ],
+      "overallStatus": "At Risk",
+      "scrumMasterNotes": "Potential sprint health issue flagged for further discussion"
+    }
+  }
+}
