@@ -1,0 +1,96 @@
+{
+  "sprintId": "sprint_1780331690115_j0a4x",
+  "date": "2026-06-01",
+  "updates": {
+    "david.kim@deloitte.com": {
+      "memberName": "David Kim",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning David, I hope you're doing well. Let's get started with our daily standup. Can you tell me what you worked on yesterday and if you completed what you had planned?"
+        },
+        {
+          "role": "user",
+          "content": "first day of the sprint"
+        },
+        {
+          "role": "assistant",
+          "content": "Since it's the first day of the sprint, there's no previous work to report. Let's move on to today's plans. What are you planning to work on today, and which specific tickets do you intend to focus on, such as PROJ-113, PROJ-114, or PROJ-115?"
+        },
+        {
+          "role": "user",
+          "content": "113 and 114"
+        },
+        {
+          "role": "assistant",
+          "content": "You're planning to work on PROJ-113 and PROJ-114 today. Can you provide an estimated percentage of completion for each ticket by the end of the day, as well as an estimated time of completion for each?"
+        },
+        {
+          "role": "user",
+          "content": "30 and 40"
+        },
+        {
+          "role": "assistant",
+          "content": "You expect to complete approximately 30% of PROJ-113 and 40% of PROJ-114 by the end of the day. Let's do a ticket deep-dive, starting with PROJ-113. What is the current status of PROJ-113, and are you expecting to change its status today, and what percentage complete do you think it will be by the end of the day, and are there any dependencies for this ticket?"
+        },
+        {
+          "role": "user",
+          "content": "50%"
+        },
+        {
+          "role": "assistant",
+          "content": "You estimate that PROJ-113 will be 50% complete by the end of the day. Based on what you have shared, I would like to move PROJ-113 from In Progress to In Development. Can you confirm?"
+        },
+        {
+          "role": "user",
+          "content": "sure"
+        },
+        {
+          "role": "assistant",
+          "content": "PROJ-113 is now in In Development status. Let's move on to PROJ-114. What is the current status of PROJ-114, and what percentage complete do you think it will be by the end of the day, and are there any dependencies for this ticket?"
+        },
+        {
+          "role": "user",
+          "content": "80"
+        },
+        {
+          "role": "assistant",
+          "content": "You estimate that PROJ-114 will be 80% complete by the end of the day. Based on what you have shared, I would like to move PROJ-114 from In Progress to In Development. Can you confirm?"
+        },
+        {
+          "role": "user",
+          "content": "Sure"
+        },
+        {
+          "role": "assistant",
+          "content": "PROJ-114 is now in In Development status. Let's discuss dependencies and risks. Are there any dependencies on other team members or external factors that could impact your work on these tickets, or any potential risks that you're aware of?"
+        },
+        {
+          "role": "user",
+          "content": "no"
+        },
+        {
+          "role": "assistant",
+          "content": "There are no dependencies or risks that you're currently aware of. Are there any blockers that are preventing you from making progress on these tickets, or do you anticipate any blockers arising in the near future?"
+        },
+        {
+          "role": "user",
+          "content": "no"
+        },
+        {
+          "role": "assistant",
+          "content": "There are no blockers preventing your progress. Let's discuss the overall sprint health. Do you believe you will be able to complete all of your assigned tickets, including PROJ-113, PROJ-114, and PROJ-115, by the end of the sprint?"
+        },
+        {
+          "role": "user",
+          "content": "no"
+        },
+        {
+          "role": "assistant",
+          "content": "You have concerns about completing all of your assigned tickets by the end of the sprint. Since it's the first day of the sprint, there's no previous day to follow up on. I will flag the potential sprint health issue for further discussion. Good morning David, our standup is now complete."
+        }
+      ],
+      "submittedAt": "2026-06-01T16:36:17.729Z"
+    }
+  }
+}
