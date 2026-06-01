@@ -248,6 +248,7 @@
       ]
     }
   ],
-  "closed": false,
-  "createdAt": "2026-06-01T07:10:28.936Z"
+  "closed": true,
+  "createdAt": "2026-06-01T07:10:28.936Z",
+  "closedAt": "2026-06-01T07:38:57.873Z"
 }
