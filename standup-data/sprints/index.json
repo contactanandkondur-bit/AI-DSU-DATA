@@ -1509,8 +1509,9 @@
         ]
       }
     ],
-    "closed": false,
+    "closed": true,
     "createdAt": "2026-06-01T07:39:36.795Z",
-    "pinDisplay": "927744"
+    "pinDisplay": "927744",
+    "closedAt": "2026-06-01T16:34:18.678Z"
   }
 ]
