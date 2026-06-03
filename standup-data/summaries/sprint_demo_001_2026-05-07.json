@@ -1,0 +1,191 @@
+{
+  "sprintId": "sprint_demo_001",
+  "date": "2026-05-07",
+  "summaries": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "memberEmail": "alex.rivera@deloitte.com",
+      "date": "2026-05-07",
+      "yesterday": "Progressed PROJ-101 auth module to 40% and started code review.",
+      "today": "Continue work on PROJ-101 authentication module, target 80%. Pair with Raj on RBAC design.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-101",
+          "description": "User authentication module",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-08",
+          "percentComplete": "60%",
+          "notes": "60% complete — implementing session handling"
+        },
+        {
+          "ticketId": "PROJ-102",
+          "description": "JWT token management",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-05-09",
+          "percentComplete": "20%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-101",
+        "PROJ-102"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "Alex on track for sprint goal."
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-05-07",
+      "yesterday": "Completed UI components as planned.",
+      "today": "Continue PROJ-103 login UI, coordinating with Alex on API contracts.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "Waiting on Alex to finalise auth API endpoint signatures",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-103",
+          "description": "Login & logout UI components",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-08",
+          "percentComplete": "60%",
+          "notes": "UI components 60% complete"
+        },
+        {
+          "ticketId": "PROJ-104",
+          "description": "User profile management page",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-05-09",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-103",
+        "PROJ-104"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "Sarah delivering steadily on UI components."
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-05-07",
+      "yesterday": "Good progress on database schema.",
+      "today": "Finalise PROJ-106 schema design and start on PROJ-105 RBAC implementation.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-105",
+          "description": "Role-based access control",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-09",
+          "percentComplete": "60%",
+          "notes": "RBAC logic 60% implemented"
+        },
+        {
+          "ticketId": "PROJ-106",
+          "description": "Database schema & migrations",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "eta": "2026-05-07",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-105",
+        "PROJ-106"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "memberEmail": "emma.thompson@deloitte.com",
+      "date": "2026-05-07",
+      "yesterday": "Progressing on API endpoints.",
+      "today": "Continue PROJ-107 API setup. Will start CI/CD pipeline configuration tomorrow.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-107",
+          "description": "REST API foundation",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-08",
+          "percentComplete": "80%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-108",
+          "description": "CI/CD pipeline",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-05-09",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-107",
+        "PROJ-108"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "memberEmail": "liam.chen@deloitte.com",
+      "date": "2026-05-07",
+      "yesterday": "Writing test cases for completed features.",
+      "today": "Continue growing test coverage for auth flows as features land.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "Need stable endpoints from Alex and Emma before writing integration tests",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-109",
+          "description": "Test automation framework",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "eta": "2026-05-07",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-110",
+          "description": "Acceptance test suites",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-05-09",
+          "percentComplete": "40%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-109",
+        "PROJ-110"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
