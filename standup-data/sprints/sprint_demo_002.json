@@ -1,0 +1,105 @@
+{
+  "id": "sprint_demo_002",
+  "pin": "$2a$10$H2NOv/FiJdTRGH35VzKJzeDBjWpvRVY1PyCr76D49kNdbJ/SeTvAW",
+  "pinDisplay": "222222",
+  "name": "Sprint 2 — Core Dashboard & Integrations",
+  "startDate": "2026-05-19",
+  "endDate": "2026-05-30",
+  "windowStart": "09:00",
+  "windowEnd": "10:00",
+  "closed": true,
+  "closedAt": "2026-05-30T17:00:00.000Z",
+  "createdAt": "2026-05-18T08:00:00.000Z",
+  "members": [
+    {
+      "name": "Alex Rivera",
+      "email": "alex.rivera@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-201",
+          "description": "Sprint dashboard main page",
+          "assignedTo": "Alex Rivera",
+          "status": "Done"
+        },
+        {
+          "ticketId": "PROJ-202",
+          "description": "Velocity analytics & charts",
+          "assignedTo": "Alex Rivera",
+          "status": "Done"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-203",
+          "description": "Daily standup email summary generator",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done"
+        },
+        {
+          "ticketId": "PROJ-204",
+          "description": "Team activity & history timeline",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done"
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-205",
+          "description": "AI standup bot conversation engine",
+          "assignedTo": "Raj Patel",
+          "status": "Done"
+        },
+        {
+          "ticketId": "PROJ-206",
+          "description": "API performance optimisation & caching",
+          "assignedTo": "Raj Patel",
+          "status": "Done"
+        }
+      ]
+    },
+    {
+      "name": "Emma Thompson",
+      "email": "emma.thompson@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-207",
+          "description": "Notification & alert system",
+          "assignedTo": "Emma Thompson",
+          "status": "Done"
+        },
+        {
+          "ticketId": "PROJ-208",
+          "description": "Data export to CSV & Excel formats",
+          "assignedTo": "Emma Thompson",
+          "status": "Done"
+        }
+      ]
+    },
+    {
+      "name": "Liam Chen",
+      "email": "liam.chen@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-209",
+          "description": "Regression test suite — core features",
+          "assignedTo": "Liam Chen",
+          "status": "Done"
+        },
+        {
+          "ticketId": "PROJ-210",
+          "description": "Performance & load benchmark tests",
+          "assignedTo": "Liam Chen",
+          "status": "Done"
+        }
+      ]
+    }
+  ]
+}
