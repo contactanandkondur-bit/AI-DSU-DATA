@@ -1,0 +1,191 @@
+{
+  "sprintId": "sprint_demo_002",
+  "date": "2026-05-21",
+  "summaries": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "memberEmail": "alex.rivera@deloitte.com",
+      "date": "2026-05-21",
+      "yesterday": "Continuing strong progress on dashboard and velocity charts.",
+      "today": "Continue PROJ-201 dashboard and start velocity chart integration.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-201",
+          "description": "Sprint dashboard main page",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-22",
+          "percentComplete": "60%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-202",
+          "description": "Velocity analytics & charts",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-05-23",
+          "percentComplete": "20%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-201",
+        "PROJ-202"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-05-21",
+      "yesterday": "Good progress on email generator and timeline component.",
+      "today": "Progressing on PROJ-203 email generator. On track for mid-sprint demo.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-203",
+          "description": "Email summary generator",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-22",
+          "percentComplete": "60%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-204",
+          "description": "Team activity timeline",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-05-23",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-203",
+        "PROJ-204"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-05-21",
+      "yesterday": "Was working on PROJ-206 API caching when encountered access issue.",
+      "today": "PROJ-206 is blocked — need production Redis credentials from DevOps. Raising urgently.",
+      "blockers": "PROJ-206 blocked — awaiting Redis access credentials from DevOps team. No ETA received. Escalated to delivery lead .",
+      "hasBlocker": true,
+      "dependencies": "Dependency on DevOps team for Redis credential provisioning",
+      "sprintRisk": "PROJ-206 API caching blocked on external team. If not resolved by end of week, may impact sprint completion.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-205",
+          "description": "AI standup bot engine",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-23",
+          "percentComplete": "40%",
+          "notes": "Paused to handle PROJ-206 blocker"
+        },
+        {
+          "ticketId": "PROJ-206",
+          "description": "API performance & caching",
+          "confirmedStatus": "Blocked",
+          "previousStatus": "In Development",
+          "eta": "TBD — blocked on DevOps",
+          "percentComplete": "50%",
+          "notes": "Blocked: awaiting Redis credentials from DevOps team"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-205",
+        "PROJ-206"
+      ],
+      "overallStatus": "Blocked",
+      "scrumMasterNotes": "PROJ-206 blocker flagged. Escalating to DevOps lead and delivery manager. Alex to cover if not resolved by Day 4."
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "memberEmail": "emma.thompson@deloitte.com",
+      "date": "2026-05-21",
+      "yesterday": "Good progress on notification system.",
+      "today": "Continue PROJ-207 notification system, then move to data export.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-207",
+          "description": "Notification & alert system",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-22",
+          "percentComplete": "60%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-208",
+          "description": "Data export CSV & Excel",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-05-23",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-207",
+        "PROJ-208"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "memberEmail": "liam.chen@deloitte.com",
+      "date": "2026-05-21",
+      "yesterday": "Expanding test coverage across new core features.",
+      "today": "Continue regression suite, then start performance benchmarking.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "Need Emma to finalise notification API contracts",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-209",
+          "description": "Regression test suite",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "eta": "2026-05-22",
+          "percentComplete": "60%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-210",
+          "description": "Performance benchmarks",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-05-23",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-209",
+        "PROJ-210"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
