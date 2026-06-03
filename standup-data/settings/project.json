@@ -1,0 +1,34 @@
+{
+  "projectName": "Enterprise Client Portal — Phase 1",
+  "sprintDurationWeeks": 2,
+  "workingDaysPerSprint": 10,
+  "defaultSpCapacity": 10,
+  "members": [
+    {
+      "name": "Alex Rivera",
+      "email": "alex.rivera@deloitte.com",
+      "spCapacity": 12
+    },
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "spCapacity": 10
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "spCapacity": 10
+    },
+    {
+      "name": "Emma Thompson",
+      "email": "emma.thompson@deloitte.com",
+      "spCapacity": 8
+    },
+    {
+      "name": "Liam Chen",
+      "email": "liam.chen@deloitte.com",
+      "spCapacity": 8
+    }
+  ],
+  "updatedAt": "2026-06-03T20:01:38.765Z"
+}
