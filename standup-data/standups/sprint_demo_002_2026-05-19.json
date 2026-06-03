@@ -1,0 +1,176 @@
+{
+  "sprintId": "sprint_demo_002",
+  "date": "2026-05-19",
+  "updates": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Alex! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint kick-off, set up dashboard scaffolding and chart library."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-201 dashboard and start velocity chart integration."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-19T09:31:00.000Z"
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Designed email summary template, confirmed layout with SM."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Progressing on PROJ-203 email generator. On track for mid-sprint demo."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-19T09:40:00.000Z"
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Started on standup bot conversation engine design."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Progressing on standup bot engine."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-19T09:32:00.000Z"
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Started notification system design and alert architecture."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-207 notification system, then move to data export."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-19T09:48:00.000Z"
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Liam! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Wrote regression tests for Sprint 1 features, all passing."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue regression suite, then start performance benchmarking."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-19T09:33:00.000Z"
+    }
+  }
+}
