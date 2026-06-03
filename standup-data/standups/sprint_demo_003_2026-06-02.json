@@ -1,0 +1,176 @@
+{
+  "sprintId": "sprint_demo_003",
+  "date": "2026-06-02",
+  "updates": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Alex! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 3 kick-off. Set up Sprint Planner wizard scaffold and confirmed component architecture with team."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Begin implementation of Sprint Planner wizard steps 1 and 2."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-02T09:46:00.000Z"
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Started cross-sprint analytics dashboard. Completed data aggregation layer."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-303 analytics, implement sprint comparison charts."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-02T09:43:00.000Z"
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Started standup reminder automation. Confirmed cron schedule design with SM."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-305 reminder automation. Review PROJ-306 Jira API docs."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-02T09:48:00.000Z"
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Started PROJ-307 reporting module. Confirmed data schema with Raj."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-307 reporting. Begin PROJ-308 performance metrics spike."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-02T09:43:00.000Z"
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Liam! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Set up E2E test framework for Sprint 3. Wrote first 20 test cases for planner wizard."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-309 E2E test suite, targeting planner and settings pages."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-02T09:52:00.000Z"
+    }
+  }
+}
