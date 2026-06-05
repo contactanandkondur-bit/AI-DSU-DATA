@@ -1,0 +1,189 @@
+{
+  "sprintId": "sprint_demo_003",
+  "date": "2026-06-02",
+  "summaries": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "memberEmail": "alex.rivera@deloitte.com",
+      "date": "2026-06-02",
+      "yesterday": "Sprint 3 kick-off. Set up Sprint Planner wizard scaffold and confirmed component architecture with team.",
+      "today": "Begin implementation of Sprint Planner wizard steps 1 and 2.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-301",
+          "description": "Sprint Planning wizard UI",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-06-05",
+          "percentComplete": "25%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-302",
+          "description": "AI ticket recommendations",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-06-10",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-301"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-06-02",
+      "yesterday": "Started cross-sprint analytics dashboard. Completed data aggregation layer.",
+      "today": "Continue PROJ-303 analytics, implement sprint comparison charts.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-303",
+          "description": "Cross-sprint analytics dashboard",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-06-08",
+          "percentComplete": "30%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-304",
+          "description": "Email template customisation",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-06-06",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-303",
+        "PROJ-304"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-06-02",
+      "yesterday": "Started standup reminder automation. Confirmed cron schedule design with SM.",
+      "today": "Continue PROJ-305 reminder automation. Review PROJ-306 Jira API docs.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-305",
+          "description": "Standup reminder automation",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-06-07",
+          "percentComplete": "20%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-306",
+          "description": "External Jira sync API",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-06-10",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-305",
+        "PROJ-306"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "memberEmail": "emma.thompson@deloitte.com",
+      "date": "2026-06-02",
+      "yesterday": "Started PROJ-307 reporting module. Confirmed data schema with Raj.",
+      "today": "Continue PROJ-307 reporting. Begin PROJ-308 performance metrics spike.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "None mentioned",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-307",
+          "description": "Advanced reporting module",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-06-09",
+          "percentComplete": "15%",
+          "notes": null
+        },
+        {
+          "ticketId": "PROJ-308",
+          "description": "Real-time performance metrics",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-06-11",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-307",
+        "PROJ-308"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "memberEmail": "liam.chen@deloitte.com",
+      "date": "2026-06-02",
+      "yesterday": "Set up E2E test framework for Sprint 3. Wrote first 20 test cases for planner wizard.",
+      "today": "Continue PROJ-309 E2E test suite, targeting planner and settings pages.",
+      "blockers": "None reported",
+      "hasBlocker": false,
+      "dependencies": "Need stable APIs from Emma and Raj before testing their new endpoints",
+      "sprintRisk": "None identified",
+      "ticketUpdates": [
+        {
+          "ticketId": "PROJ-309",
+          "description": "E2E automated test suite",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "eta": "2026-06-09",
+          "percentComplete": "25%",
+          "notes": "25% test cases written and passing"
+        },
+        {
+          "ticketId": "PROJ-310",
+          "description": "Load testing scenarios",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "eta": "2026-06-11",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PROJ-309"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
