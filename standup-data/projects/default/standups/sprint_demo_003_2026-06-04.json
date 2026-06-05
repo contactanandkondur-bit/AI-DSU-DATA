@@ -1,0 +1,108 @@
+{
+  "sprintId": "sprint_demo_003",
+  "date": "2026-06-04",
+  "updates": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Alex! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Completed Steps 4-5 of Sprint Planner wizard. PROJ-301 at 85%, targeting Done by tomorrow."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PROJ-301. Begin PROJ-302 AI recommendation engine design."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-04T09:44:00.000Z"
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PROJ-303 at 80%. PROJ-304 code review approved, merging today."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Merge PROJ-304. Focus on completing PROJ-303 analytics dashboard."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-04T09:48:00.000Z"
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PROJ-305 at 70%. Still waiting on Jira team for API token. Following up again today."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PROJ-305 automation. Escalate PROJ-306 dependency to SM if no response by EOD."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-06-04T09:47:00.000Z"
+    }
+  }
+}
