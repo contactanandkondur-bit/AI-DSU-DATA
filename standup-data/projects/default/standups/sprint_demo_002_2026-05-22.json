@@ -1,0 +1,176 @@
+{
+  "sprintId": "sprint_demo_002",
+  "date": "2026-05-22",
+  "updates": {
+    "alex.rivera@deloitte.com": {
+      "memberName": "Alex Rivera",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Alex! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Continuing strong progress on dashboard and velocity charts."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-201 dashboard and start velocity chart integration."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-22T09:39:00.000Z"
+    },
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Good progress on email generator and timeline component."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Progressing on PROJ-203 email generator. On track for mid-sprint demo."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-22T09:39:00.000Z"
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PROJ-206 still blocked — no update from DevOps yet. Raj working on PROJ-205 instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continuing on PROJ-205 bot engine while PROJ-206 awaits DevOps response."
+        },
+        {
+          "role": "assistant",
+          "content": "I see you have a blocker. Can you describe it?"
+        },
+        {
+          "role": "user",
+          "content": "PROJ-206 blocked — awaiting Redis access credentials from DevOps team. No ETA received. Escalated to delivery lead (Day 2 of block)."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-22T09:42:00.000Z"
+    },
+    "emma.thompson@deloitte.com": {
+      "memberName": "Emma Thompson",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Good progress on notification system."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PROJ-207 notification system, then move to data export."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-22T09:54:00.000Z"
+    },
+    "liam.chen@deloitte.com": {
+      "memberName": "Liam Chen",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Liam! Let's get started with your standup. What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Expanding test coverage across new core features."
+        },
+        {
+          "role": "assistant",
+          "content": "Great. What are you planning to work on today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue regression suite, then start performance benchmarking."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies I should flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all good."
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ],
+      "submittedAt": "2026-05-22T09:34:00.000Z"
+    }
+  }
+}
