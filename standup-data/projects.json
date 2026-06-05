@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "slug": "default",
+      "name": "Default Project",
+      "createdAt": "2026-06-05T19:39:15.253Z",
+      "createdBy": "migration",
+      "setupComplete": true,
+      "admins": [
+        "admin@deloitte.com"
+      ]
+    }
+  ]
+}
