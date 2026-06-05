@@ -1,0 +1,104 @@
+{
+  "id": "sprint_demo_003",
+  "pin": "$2a$10$D0U7fjtSyT2lhWvjHYgfYuCD3V.1SW7HoFlNCGTSwh/Qry8yVqtjy",
+  "pinDisplay": "333333",
+  "name": "Sprint 3 — Advanced Analytics & Launch Prep",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-13",
+  "windowStart": "09:00",
+  "windowEnd": "10:00",
+  "closed": false,
+  "createdAt": "2026-06-01T08:00:00.000Z",
+  "members": [
+    {
+      "name": "Alex Rivera",
+      "email": "alex.rivera@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-301",
+          "description": "Sprint Planning wizard UI",
+          "assignedTo": "Alex Rivera",
+          "status": "In Development"
+        },
+        {
+          "ticketId": "PROJ-302",
+          "description": "AI-powered ticket recommendations",
+          "assignedTo": "Alex Rivera",
+          "status": "To Do"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-303",
+          "description": "Cross-sprint analytics dashboard",
+          "assignedTo": "Sarah Mitchell",
+          "status": "In Development"
+        },
+        {
+          "ticketId": "PROJ-304",
+          "description": "Email template customisation engine",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Code Review"
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-305",
+          "description": "Automated standup reminder system",
+          "assignedTo": "Raj Patel",
+          "status": "In Development"
+        },
+        {
+          "ticketId": "PROJ-306",
+          "description": "External Jira sync & webhook API",
+          "assignedTo": "Raj Patel",
+          "status": "To Do"
+        }
+      ]
+    },
+    {
+      "name": "Emma Thompson",
+      "email": "emma.thompson@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-307",
+          "description": "Advanced reporting module",
+          "assignedTo": "Emma Thompson",
+          "status": "In Development"
+        },
+        {
+          "ticketId": "PROJ-308",
+          "description": "Real-time performance metrics engine",
+          "assignedTo": "Emma Thompson",
+          "status": "In Development"
+        }
+      ]
+    },
+    {
+      "name": "Liam Chen",
+      "email": "liam.chen@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PROJ-309",
+          "description": "End-to-end automated test suite",
+          "assignedTo": "Liam Chen",
+          "status": "In Development"
+        },
+        {
+          "ticketId": "PROJ-310",
+          "description": "Load testing & stress test scenarios",
+          "assignedTo": "Liam Chen",
+          "status": "To Do"
+        }
+      ]
+    }
+  ]
+}
