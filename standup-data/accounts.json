@@ -1,3 +1,11 @@
 {
-  "accounts": []
+  "accounts": [
+    {
+      "email": "admin1@abcd.com",
+      "passwordHash": "$2a$10$N4i1hD4BNZ.sGHUykV1us.pJZT1IGYhLDpt/NSNJc/6SqVOC2u7WG",
+      "displayName": "Anand Kondur",
+      "createdAt": "2026-06-05T19:58:41.057Z",
+      "createdBy": "super_admin"
+    }
+  ]
 }
