@@ -1,0 +1,23 @@
+{
+  "projectName": "Phoenix",
+  "sprintDurationWeeks": 2,
+  "workingDaysPerSprint": 10,
+  "defaultSpCapacity": 8,
+  "defaultWindowStart": "09:00",
+  "defaultWindowEnd": "23:59",
+  "timezone": "Asia/Kolkata",
+  "members": [
+    {
+      "name": "Akhila",
+      "email": "akhila@abcd.com",
+      "spCapacity": 8
+    },
+    {
+      "name": "kruthi",
+      "email": "kruthi@abcd.com",
+      "spCapacity": 8
+    }
+  ],
+  "setupComplete": true,
+  "updatedAt": "2026-06-05T20:07:32.564Z"
+}
