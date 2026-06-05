@@ -1,3 +1,14 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "createdAt": "2026-06-05T19:59:00.151Z",
+      "createdBy": "super_admin",
+      "setupComplete": false,
+      "admins": [
+        "admin1@abcd.com"
+      ]
+    }
+  ]
 }
