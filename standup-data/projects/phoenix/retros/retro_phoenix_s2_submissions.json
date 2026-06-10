@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sub_s2_001",
+    "wentWell": "Both Sprint 1 blockers resolved on Day 1 of Sprint 2 — what a relief! OTP and VirusTotal credentials arrived overnight. Team hit the ground running.",
+    "improve": "The onboarding wizard (PHX-017) was called at 8 SP but was actually ~16 SP. We underestimated complex multi-step UI again.",
+    "recognition": "Priya Sharma — bounced back instantly from being blocked for two weeks. Delivered PHX-009 and PHX-010 in record time.",
+    "submittedAt": "2026-02-28T09:10:00.000Z"
+  },
+  {
+    "id": "sub_s2_002",
+    "wentWell": "Document upload and management features came together really well. The S3 architecture Tom set up in Sprint 1 paid dividends.",
+    "improve": "DAST security scan got deferred again. Tom keeps getting pulled onto development support instead of infra/security work. Need to protect his time.",
+    "recognition": "James Wu — immediately wrote MFA test coverage the moment OTP endpoint went live in Sprint 2. Zero delay on QA side.",
+    "submittedAt": "2026-02-28T09:18:00.000Z"
+  },
+  {
+    "id": "sub_s2_003",
+    "wentWell": "Raj's RBAC implementation was clean and extensible — I've been building on it in Sprint 3 without any rework.",
+    "improve": "We still ended Sprint 2 with two partial tickets (PHX-017 steps 4-6 and PHX-019). Carry-over work is becoming a pattern.",
+    "recognition": "Raj Patel — RBAC done and merged cleanly, reviewed and approved same day. Sets up fine-grained permissions for all future work.",
+    "submittedAt": "2026-02-28T09:27:00.000Z"
+  },
+  {
+    "id": "sub_s2_004",
+    "wentWell": "98% test pass rate on the sprint regression. The test framework from Sprint 1 is maturing and catching issues early.",
+    "improve": "Story pointing for UI wizards and complex forms needs a different approach. Suggest breaking all wizard tickets into individual step sub-tasks.",
+    "recognition": "Sarah Mitchell — unblocked immediately in Sprint 2 and delivered MFA plus document upload UI. Strong comeback sprint.",
+    "submittedAt": "2026-02-28T09:38:00.000Z"
+  },
+  {
+    "id": "sub_s2_005",
+    "wentWell": "The document versioning and audit trail design is solid — Priya thought through all the edge cases before writing a line of code.",
+    "improve": "Retrospectives feel rushed at end of sprint. Could we move the retro to Thursday and sprint close to Friday to give more time for reflection?",
+    "recognition": "Tom Bradley — S3 bucket policies, IAM roles, and lifecycle rules all set up correctly. No security issues found in later pen-test for this area.",
+    "submittedAt": "2026-02-28T09:49:00.000Z"
+  },
+  {
+    "id": "sub_s2_006",
+    "wentWell": "Team communication improved vs Sprint 1 — people flagging risks earlier in the standup instead of saying \"all clear\" and then flagging later.",
+    "improve": "PHX-021 DAST being deferred a second time is a risk. If we keep deferring security work it will accumulate into a big risk before UAT.",
+    "recognition": "Emma Clarke — document list UI was beautifully designed and reused design system perfectly. No design debt introduced.",
+    "submittedAt": "2026-02-28T10:02:00.000Z"
+  }
+]
