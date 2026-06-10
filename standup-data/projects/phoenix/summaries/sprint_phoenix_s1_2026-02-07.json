@@ -1,0 +1,216 @@
+{
+  "sprintId": "sprint_phoenix_s1",
+  "date": "2026-02-07",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "Completed PHX-001 login UI — all happy-path flows working. Started PHX-002 MFA screens.",
+      "today": "Continue PHX-002 MFA screens — targeting 60% today. Will flag OTP dependency.",
+      "blockers": "PHX-002 MFA blocked — Apex Bank has not provided OTP service endpoint credentials. Raised with client delivery manager 3 days ago, no response yet.",
+      "hasBlocker": true,
+      "dependencies": "Apex Bank OTP service API credentials — outstanding since sprint kick-off.",
+      "sprintRisk": "PHX-002 will likely spill into Sprint 2 if OTP credentials not received by end of week.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-001",
+          "description": "User login & session management UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "Completed and merged"
+        },
+        {
+          "ticketId": "PHX-002",
+          "description": "Multi-factor authentication flow",
+          "confirmedStatus": "Blocked",
+          "previousStatus": "To Do",
+          "percentComplete": "40%",
+          "notes": "Blocked: awaiting Apex Bank OTP service credentials"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-001",
+        "PHX-002"
+      ],
+      "overallStatus": "At Risk",
+      "scrumMasterNotes": "OTP blocker flagged to client. Sarah to continue other tasks while waiting."
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "PHX-003 authentication API 70% — login, logout and refresh endpoints working.",
+      "today": "Complete PHX-003 auth API and write unit tests.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-003",
+          "description": "Authentication API & JWT service",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "70%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-004",
+          "description": "User roles & permissions (RBAC)",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-003",
+        "PHX-004"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "PHX-005 Done — shell, nav, and route guards all working. Started PHX-006 design system.",
+      "today": "Build shared Button, Card, Modal components for PHX-006.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-005",
+          "description": "Application shell, routing & nav",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-006",
+          "description": "Design system & shared UI components",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-005",
+        "PHX-006"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "PHX-007 framework complete — parallel test execution working. Starting PHX-008 auth tests.",
+      "today": "Write auth acceptance tests for login, logout, token refresh.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-007",
+          "description": "Test automation framework setup",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-008",
+          "description": "Auth flow acceptance test suite",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "25%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-007",
+        "PHX-008"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "PHX-009 upload API 65% — multi-part upload and presigned URLs working.",
+      "today": "Complete upload endpoint and write integration tests.",
+      "blockers": "PHX-010 blocked — Apex Bank CyberSec team has not provided VirusTotal/ClamAV API key. Requested on sprint Day 1. No response yet.",
+      "hasBlocker": true,
+      "dependencies": "Apex Bank CyberSec team API key provision for virus scanning service.",
+      "sprintRisk": "PHX-010 will spill into Sprint 2 unless credentials provided within 24 hours.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-009",
+          "description": "Document upload API (Apex Bank S3)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "65%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-010",
+          "description": "File validation & virus scan service",
+          "confirmedStatus": "Blocked",
+          "previousStatus": "To Do",
+          "percentComplete": "0%",
+          "notes": "Blocked: Apex Bank CyberSec API key not provided. Escalated."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-009",
+        "PHX-010"
+      ],
+      "overallStatus": "Blocked",
+      "scrumMasterNotes": "Second blocker this sprint. Pattern emerging — client not providing credentials on time. Anand to raise formally with Apex Bank PMO."
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-02-07",
+      "yesterday": "PHX-011 environments fully provisioned. IaC templates committed. Starting PHX-012 CI/CD.",
+      "today": "Set up GitHub Actions pipeline for PHX-012.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-011",
+          "description": "Dev & staging environment provisioning",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-012",
+          "description": "CI/CD pipeline (GitHub Actions)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "40%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-011",
+        "PHX-012"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
