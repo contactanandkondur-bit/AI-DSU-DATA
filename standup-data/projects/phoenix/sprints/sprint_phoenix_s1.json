@@ -1,0 +1,138 @@
+{
+  "id": "sprint_phoenix_s1",
+  "name": "Sprint 1 — Authentication & Foundation",
+  "startDate": "2026-02-03",
+  "endDate": "2026-02-14",
+  "windowStart": "09:00",
+  "windowEnd": "11:00",
+  "pin": "$2a$10$NBMBL/Cpd3C8NUbgX882vuTFqaxzF21WbvY5rePNSkWMVTkrdqcp2",
+  "pinDisplay": "999999",
+  "closed": true,
+  "closedAt": "2026-02-14T17:00:00.000Z",
+  "createdAt": "2026-02-02T08:00:00.000Z",
+  "goal": "Deliver core authentication flows and project infrastructure.",
+  "committedSP": 80,
+  "completedSP": 45,
+  "members": [
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-001",
+          "description": "User login & session management UI",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-002",
+          "description": "Multi-factor authentication flow",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Blocked",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-003",
+          "description": "Authentication API & JWT service",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-004",
+          "description": "User roles & permissions (RBAC)",
+          "assignedTo": "Raj Patel",
+          "status": "In Development",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Emma Clarke",
+      "email": "emma.clarke@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-005",
+          "description": "Application shell, routing & nav",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-006",
+          "description": "Design system & shared UI components",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "James Wu",
+      "email": "james.wu@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-007",
+          "description": "Test automation framework setup",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-008",
+          "description": "Auth flow acceptance test suite",
+          "assignedTo": "James Wu",
+          "status": "In Development",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-009",
+          "description": "Document upload API (Apex Bank S3)",
+          "assignedTo": "Priya Sharma",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-010",
+          "description": "File validation & virus scan service",
+          "assignedTo": "Priya Sharma",
+          "status": "Blocked",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Tom Bradley",
+      "email": "tom.bradley@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-011",
+          "description": "Dev & staging environment provisioning",
+          "assignedTo": "Tom Bradley",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-012",
+          "description": "CI/CD pipeline (GitHub Actions)",
+          "assignedTo": "Tom Bradley",
+          "status": "Done",
+          "storyPoints": 5
+        }
+      ]
+    }
+  ]
+}
