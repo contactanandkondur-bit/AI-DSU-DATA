@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sub_s3_001",
+    "wentWell": "Zero blockers this sprint — complete 180 from Sprints 1 and 2. The KYC requirements workshop was the turning point for the whole project.",
+    "improve": "That requirements workshop should have happened in Week 1, not Sprint 3. We wasted 6 weeks building on assumptions.",
+    "recognition": "Raj Patel — KYC API with 12 verification rules implemented correctly first time. Zero bugs found in QA. Exceptional work.",
+    "submittedAt": "2026-03-14T09:08:00.000Z"
+  },
+  {
+    "id": "sub_s3_002",
+    "wentWell": "James achieved 100% regulatory compliance test coverage — 47 test scenarios covering all FCA requirements. Client will be impressed.",
+    "improve": "Pen-test was started too late in the project. PHX-030 is now spilling into Sprint 4 with 3 remaining findings.",
+    "recognition": "James Wu — 47 KYC/AML test scenarios, every FCA requirement covered. The compliance risk is now virtually zero.",
+    "submittedAt": "2026-03-14T09:15:00.000Z"
+  },
+  {
+    "id": "sub_s3_003",
+    "wentWell": "Backend and frontend integration was seamless this sprint. Raj and Sarah were coordinating proactively without me having to facilitate.",
+    "improve": "Some technical debt is building up in the API layer — error handling is inconsistent across endpoints. Need a dedicated cleanup.",
+    "recognition": "Emma Clarke — full 6-step onboarding wizard delivered with accessibility built in. Accessibility in wizard flows is notoriously hard.",
+    "submittedAt": "2026-03-14T09:24:00.000Z"
+  },
+  {
+    "id": "sub_s3_004",
+    "wentWell": "AML risk scoring integration was more complex than expected but Raj handled it brilliantly. The Groq API integration approach he used is clean.",
+    "improve": "Knowledge domain gaps are slowing us down. James had to learn FCA compliance domain during sprint time rather than before.",
+    "recognition": "Priya Sharma — document versioning and audit log delivered to a very high standard. The event sourcing approach was the right call.",
+    "submittedAt": "2026-03-14T09:33:00.000Z"
+  },
+  {
+    "id": "sub_s3_005",
+    "wentWell": "Sprint velocity hit 75/80 SP — huge improvement on Sprint 1. The team's confidence is visibly higher.",
+    "improve": "Tom's pipeline and security work keeps being deprioritised when the development team is moving fast. DevOps isn't a luxury — it needs protected time.",
+    "recognition": "Entire Team — best sprint so far, no blockers, strong collaboration. This is what we can achieve when requirements are clear.",
+    "submittedAt": "2026-03-14T09:44:00.000Z"
+  },
+  {
+    "id": "sub_s3_006",
+    "wentWell": "The compliance work is now complete and fully tested. We're in a strong position for the regulatory submission.",
+    "improve": "Sprint planning still doesn't account for tech debt reduction. We need to formally allocate 10% capacity each sprint for debt paydown.",
+    "recognition": "Tom Bradley — PHX-021 DAST scan finally delivered. Full pipeline security coverage achieved — SAST, DAST, and secrets detection all running.",
+    "submittedAt": "2026-03-14T09:55:00.000Z"
+  }
+]
