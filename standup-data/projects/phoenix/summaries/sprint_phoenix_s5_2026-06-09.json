@@ -1,0 +1,234 @@
+{
+  "sprintId": "sprint_phoenix_s5",
+  "date": "2026-06-09",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-043 Done. PHX-044 notification UI in Code Review — awaiting review from Raj.",
+      "today": "PHX-044 awaiting code review. Sarah picking up sprint review prep.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-043",
+          "description": "Client portal dashboard (main view)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-044",
+          "description": "Notification centre & alerts UI",
+          "confirmedStatus": "Code Review",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Code review raised — awaiting second reviewer"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-037",
+        "PHX-043",
+        "PHX-044"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-045 Done. PHX-046 transaction sync 55% — batch fetch working, real-time webhooks in progress.",
+      "today": "Complete PHX-046 webhook integration. May carry final testing to Jun 10.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "PHX-046 webhook real-time sync may need final testing on Jun 10. Raj confident it will complete.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-045",
+          "description": "Core Banking API connector (Apex Bank)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-046",
+          "description": "Transaction fetch & sync service",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "55%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-045",
+        "PHX-046"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-047, PHX-048, PHX-049 all Done. Emma finished sprint work 2 days early!",
+      "today": "All Emma's sprint tickets Done. Helping Sarah review PHX-044 code.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-047",
+          "description": "Account overview & balance UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-048",
+          "description": "Transaction history & search UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-049",
+          "description": "Mobile-responsive layout audit",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-047",
+        "PHX-048",
+        "PHX-049"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-051 BLOCKED. Dashboard loading 45 accounts takes 8.2 seconds. Completely unacceptable for UAT.",
+      "today": "PHX-051 blocked until Priya resolves dashboard query performance. Documenting findings.",
+      "blockers": "PHX-051 performance testing blocked — dashboard takes 8.2s to load with 45 accounts. Root cause is N+1 query in accounts aggregation endpoint (PHX-053). Priya is investigating.",
+      "hasBlocker": true,
+      "dependencies": "PHX-051 blocked on PHX-053 query fix from Priya.",
+      "sprintRisk": "Dashboard performance is a UAT risk. Must be resolved before client UAT begins. Priya targeting fix by Jun 10.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-050",
+          "description": "API integration test suite",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-051",
+          "description": "Dashboard load & performance testing",
+          "confirmedStatus": "Blocked",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": "BLOCKED: 8.2s dashboard load with 45 accounts. N+1 query identified in aggregation layer. Waiting on PHX-053 fix."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-050",
+        "PHX-051"
+      ],
+      "overallStatus": "Blocked",
+      "scrumMasterNotes": "Critical performance issue. Priya to prioritise PHX-053 today. James to document perf baseline so we can verify fix tomorrow."
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-053 in progress. Confirmed N+1 query bug in accounts aggregation. Fix drafted — testing now.",
+      "today": "Complete PHX-053 fix. Targeting PR merged by EOD today so James can verify performance tomorrow.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "PHX-053 fix should be complete today — N+1 query identified and fix is straightforward (eager loading). Expected 80-90% load time improvement.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-052",
+          "description": "API gateway & rate-limiting layer",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-053",
+          "description": "Dashboard query performance fix",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "70%",
+          "notes": "N+1 query identified. Eager loading fix drafted and under test. PR to merge today."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-052",
+        "PHX-053"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "Priya has identified the root cause. Fix expected today. Team has good confidence this will be resolved before sprint end."
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-06-09",
+      "yesterday": "PHX-054 Done. PHX-055 monitoring 60% — CloudWatch dashboards and basic alerts configured.",
+      "today": "Complete PHX-055 alerting rules. May carry final runbook documentation to Jun 10.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "PHX-055 carrying final runbook docs to Jun 10 — low risk.",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-054",
+          "description": "Production infrastructure provisioning",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-055",
+          "description": "Monitoring, logging & alerting setup",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "60%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-054",
+        "PHX-055"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
