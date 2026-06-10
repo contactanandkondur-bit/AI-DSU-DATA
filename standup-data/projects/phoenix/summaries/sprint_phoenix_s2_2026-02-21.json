@@ -1,0 +1,224 @@
+{
+  "sprintId": "sprint_phoenix_s2",
+  "date": "2026-02-21",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-002 MFA flow Done — OTP integration working end-to-end. Now on PHX-013 document upload UI.",
+      "today": "Build document upload UI components for PHX-013.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-002",
+          "description": "Multi-factor authentication flow",
+          "confirmedStatus": "Done",
+          "previousStatus": "Blocked",
+          "percentComplete": "100%",
+          "notes": "Complete and merged"
+        },
+        {
+          "ticketId": "PHX-013",
+          "description": "Document upload UI components",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-014",
+          "description": "Document preview & metadata panel",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-002",
+        "PHX-013"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-004 RBAC Done. Starting PHX-015 document management API.",
+      "today": "Design document management API schema for PHX-015.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-004",
+          "description": "User roles & permissions (RBAC)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-015",
+          "description": "Document management API (CRUD)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-004",
+        "PHX-015"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-016 Done. Starting PHX-017 onboarding wizard.",
+      "today": "Start PHX-017 wizard stepper component.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-016",
+          "description": "Document list & filter UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-017",
+          "description": "Onboarding wizard (steps 1–3)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-016",
+        "PHX-017"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-008 fully Done — MFA coverage complete. Starting PHX-018.",
+      "today": "Start document upload integration tests for PHX-018.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-008",
+          "description": "Auth flow acceptance test suite",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "All auth flows covered including MFA"
+        },
+        {
+          "ticketId": "PHX-018",
+          "description": "Document upload integration tests",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "15%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-008",
+        "PHX-018"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-010 virus scan service Done. Thorough testing with EICAR test files.",
+      "today": "Start PHX-019 document versioning and audit trail API.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-010",
+          "description": "File validation & virus scan service",
+          "confirmedStatus": "Done",
+          "previousStatus": "Blocked",
+          "percentComplete": "100%",
+          "notes": "VirusTotal integration complete, EICAR tests passing"
+        },
+        {
+          "ticketId": "PHX-019",
+          "description": "Document versioning & audit trail API",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-010",
+        "PHX-019"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-02-21",
+      "yesterday": "PHX-020 S3 setup Done. Starting PHX-021 security scan pipeline.",
+      "today": "Integrate Snyk into CI/CD pipeline for PHX-021.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-020",
+          "description": "S3 bucket policy & IAM role setup",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-021",
+          "description": "Security scan integration in pipeline",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-020",
+        "PHX-021"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
