@@ -1,0 +1,234 @@
+{
+  "sprintId": "sprint_phoenix_s5",
+  "date": "2026-05-28",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Sprint 5 kick-off. Strong team energy. Starting PHX-037 responsive tables and PHX-043 dashboard.",
+      "today": "Complete PHX-037 responsive tables and start PHX-043 portal dashboard.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "80%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-043",
+          "description": "Client portal dashboard (main view)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "25%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-044",
+          "description": "Notification centre & alerts UI",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-037",
+        "PHX-043",
+        "PHX-044"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Starting PHX-045 Core Banking API connector. API contract reviewed with Apex Bank.",
+      "today": "Implement OAuth2 flow and account endpoint for PHX-045.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-045",
+          "description": "Core Banking API connector (Apex Bank)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-046",
+          "description": "Transaction fetch & sync service",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-045",
+        "PHX-046"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Starting PHX-047 account overview UI and PHX-048 transaction history.",
+      "today": "Build account overview cards and balance display for PHX-047.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-047",
+          "description": "Account overview & balance UI",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "40%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-048",
+          "description": "Transaction history & search UI",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-049",
+          "description": "Mobile-responsive layout audit",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-047",
+        "PHX-048",
+        "PHX-049"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Starting PHX-050 API integration test suite for new banking endpoints.",
+      "today": "Write integration tests for Core Banking API endpoints.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-050",
+          "description": "API integration test suite",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "25%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-051",
+          "description": "Dashboard load & performance testing",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-050",
+        "PHX-051"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Starting PHX-052 API gateway and rate-limiting.",
+      "today": "Implement API gateway, rate-limiting and circuit breakers for PHX-052.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-052",
+          "description": "API gateway & rate-limiting layer",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "35%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-053",
+          "description": "Dashboard query performance fix",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-052",
+        "PHX-053"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-05-28",
+      "yesterday": "Starting PHX-054 production infrastructure provisioning.",
+      "today": "Provision production EC2 instances, RDS and ElastiCache for PHX-054.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-054",
+          "description": "Production infrastructure provisioning",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-055",
+          "description": "Monitoring, logging & alerting setup",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-054",
+        "PHX-055"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
