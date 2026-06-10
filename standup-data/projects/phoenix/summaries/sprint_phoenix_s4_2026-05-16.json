@@ -1,0 +1,224 @@
+{
+  "sprintId": "sprint_phoenix_s4",
+  "date": "2026-05-16",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-031 and PHX-032 both Done. Dashboard looks great.",
+      "today": "Sprint 4 complete. Sarah delivered 2 tickets ahead of schedule.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-031",
+          "description": "Reporting dashboard main layout",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-032",
+          "description": "Velocity & burndown chart components",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-031",
+        "PHX-032"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-033 and PHX-034 both Done. PDF export quality looks professional.",
+      "today": "Sprint 4 complete for Raj. Best sprint velocity yet.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-033",
+          "description": "Analytics data aggregation API",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-034",
+          "description": "Report generation & PDF export",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-033",
+        "PHX-034"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-035 and PHX-036 Done. PHX-037 responsive tables 60% — carrying to Sprint 5.",
+      "today": "Noting PHX-037 will carry — tables more complex than expected.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-035",
+          "description": "Recharts integration & custom themes",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-036",
+          "description": "Executive summary email template",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "60%",
+          "notes": "Carrying to Sprint 5 — complex sort/filter state management"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-035",
+        "PHX-036"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-038 and PHX-039 both Done. 99% pass rate across all browsers.",
+      "today": "Sprint 4 QA complete. Zero defects in final regression.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-038",
+          "description": "Reporting E2E test suite",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-039",
+          "description": "Cross-browser compatibility testing",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-038",
+        "PHX-039"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-040 and PHX-041 both Done. Caching layer reduces DB load by 70%.",
+      "today": "Sprint 4 complete. Performance improvements are dramatic.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-040",
+          "description": "Query optimisation & DB indexing",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "p95 latency: 2.1s → 340ms. All slow queries resolved"
+        },
+        {
+          "ticketId": "PHX-041",
+          "description": "Caching layer (Redis) for reports",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Cache hit rate 94%. DB load reduced by 70%"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-040",
+        "PHX-041"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-05-16",
+      "yesterday": "PHX-030 and PHX-042 both Done. Staging and UAT environments in sync.",
+      "today": "Sprint 4 complete for DevOps. Infrastructure solid.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-030",
+          "description": "Pen-test remediation & hardening",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "All 11 findings resolved and signed off by security team"
+        },
+        {
+          "ticketId": "PHX-042",
+          "description": "Staging → UAT environment migration",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-030",
+        "PHX-042"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
