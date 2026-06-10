@@ -1,0 +1,210 @@
+{
+  "sprintId": "sprint_phoenix_s1",
+  "date": "2026-02-03",
+  "updates": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "submittedAt": "2026-02-03T09:11:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Kicked off sprint, reviewed auth specs with Raj. Set up React component scaffolding for login UI."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Implement login form validation and error states for PHX-001."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Sarah, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "submittedAt": "2026-02-03T09:26:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Reviewed JWT auth requirements. Designed token refresh strategy. Started PHX-003 API."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Implement JWT login endpoint and token refresh logic."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Raj, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "submittedAt": "2026-02-03T09:48:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Set up React Router, lazy loading, and Tailwind config. PHX-005 app shell 50%."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PHX-005 application shell and routing."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Emma, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "submittedAt": "2026-02-03T09:25:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning James! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Evaluated Playwright vs Cypress. Chose Playwright. Set up PHX-007 test harness."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete Playwright setup and write first smoke test."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks James, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "submittedAt": "2026-02-03T09:42:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Priya! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Reviewed S3 architecture with Tom. Designed upload API contract. Starting PHX-009."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Build S3 multi-part upload endpoint for PHX-009."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Priya, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "submittedAt": "2026-02-03T09:47:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Tom! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Provisioned dev and staging environments on AWS. PHX-011 infra 70% complete."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete environment provisioning and document access details."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Tom, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    }
+  }
+}
