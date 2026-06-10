@@ -1,0 +1,216 @@
+{
+  "sprintId": "sprint_phoenix_s1",
+  "date": "2026-02-03",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Kicked off sprint, reviewed auth specs with Raj. Set up React component scaffolding for login UI.",
+      "today": "Implement login form validation and error states for PHX-001.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-001",
+          "description": "User login & session management UI",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": "In progress"
+        },
+        {
+          "ticketId": "PHX-002",
+          "description": "Multi-factor authentication flow",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-001",
+        "PHX-002"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Reviewed JWT auth requirements. Designed token refresh strategy. Started PHX-003 API.",
+      "today": "Implement JWT login endpoint and token refresh logic.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-003",
+          "description": "Authentication API & JWT service",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "25%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-004",
+          "description": "User roles & permissions (RBAC)",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-003",
+        "PHX-004"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Set up React Router, lazy loading, and Tailwind config. PHX-005 app shell 50%.",
+      "today": "Complete PHX-005 application shell and routing.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-005",
+          "description": "Application shell, routing & nav",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "50%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-006",
+          "description": "Design system & shared UI components",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-005",
+        "PHX-006"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Evaluated Playwright vs Cypress. Chose Playwright. Set up PHX-007 test harness.",
+      "today": "Complete Playwright setup and write first smoke test.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-007",
+          "description": "Test automation framework setup",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "60%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-008",
+          "description": "Auth flow acceptance test suite",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-007",
+        "PHX-008"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Reviewed S3 architecture with Tom. Designed upload API contract. Starting PHX-009.",
+      "today": "Build S3 multi-part upload endpoint for PHX-009.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-009",
+          "description": "Document upload API (Apex Bank S3)",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-010",
+          "description": "File validation & virus scan service",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-009",
+        "PHX-010"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-02-03",
+      "yesterday": "Provisioned dev and staging environments on AWS. PHX-011 infra 70% complete.",
+      "today": "Complete environment provisioning and document access details.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-011",
+          "description": "Dev & staging environment provisioning",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "70%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-012",
+          "description": "CI/CD pipeline (GitHub Actions)",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-011",
+        "PHX-012"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
