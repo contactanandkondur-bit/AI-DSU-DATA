@@ -1,0 +1,145 @@
+{
+  "id": "sprint_phoenix_s3",
+  "name": "Sprint 3 — KYC/AML Compliance",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-14",
+  "windowStart": "09:00",
+  "windowEnd": "11:00",
+  "pin": "$2a$10$v3wb0MFgRpGrZwNMfkR0a.yWqfF67EN7lWKv.0rBjvwAZyaoWuP2m",
+  "pinDisplay": "999999",
+  "closed": true,
+  "closedAt": "2026-03-14T17:00:00.000Z",
+  "createdAt": "2026-03-02T08:00:00.000Z",
+  "goal": "Implement full KYC identity verification and AML risk scoring.",
+  "committedSP": 80,
+  "completedSP": 75,
+  "members": [
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-014",
+          "description": "Document preview & metadata panel",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-022",
+          "description": "KYC identity verification UI",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-023",
+          "description": "AML risk scoring display panel",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-024",
+          "description": "KYC identity verification API",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 13
+        },
+        {
+          "ticketId": "PHX-025",
+          "description": "AML risk scoring engine integration",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Emma Clarke",
+      "email": "emma.clarke@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-017",
+          "description": "Onboarding wizard (steps 1–3)",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-026",
+          "description": "Onboarding wizard (steps 4–6)",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "James Wu",
+      "email": "james.wu@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-027",
+          "description": "KYC/AML compliance test scenarios",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-028",
+          "description": "Regulatory edge case test coverage",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-019",
+          "description": "Document versioning & audit trail API",
+          "assignedTo": "Priya Sharma",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-029",
+          "description": "Compliance audit log service",
+          "assignedTo": "Priya Sharma",
+          "status": "Done",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Tom Bradley",
+      "email": "tom.bradley@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-021",
+          "description": "Security scan integration in pipeline",
+          "assignedTo": "Tom Bradley",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-030",
+          "description": "Pen-test remediation & hardening",
+          "assignedTo": "Tom Bradley",
+          "status": "In Development",
+          "storyPoints": 8
+        }
+      ]
+    }
+  ]
+}
