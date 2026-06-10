@@ -1,0 +1,210 @@
+{
+  "sprintId": "sprint_phoenix_s3",
+  "date": "2026-03-07",
+  "updates": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "submittedAt": "2026-03-07T09:47:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-014 preview panel Done. PHX-022 KYC UI 50% — forms and validation working."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PHX-022 KYC UI and start PHX-023 AML risk display."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Sarah, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "submittedAt": "2026-03-07T09:32:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-024 KYC API 60% — identity verification, document cross-check working."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete KYC API and start PHX-025 AML risk engine."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Raj, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "submittedAt": "2026-03-07T09:26:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-017 onboarding wizard fully Done — all 6 steps working with validation."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Start PHX-026 onboarding wizard steps 4-6 polish and accessibility."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Emma, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "submittedAt": "2026-03-07T09:33:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning James! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-027 KYC/AML test scenarios 65% — covering all FCA-mandated edge cases."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PHX-027 and start PHX-028 edge case coverage."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks James, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "submittedAt": "2026-03-07T09:36:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Priya! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-019 Done. PHX-029 compliance audit log 50% — event sourcing pattern working."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PHX-029 audit log — add event filtering and export."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Priya, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "submittedAt": "2026-03-07T09:16:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Tom! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-021 Done — SAST, DAST and secrets detection all running. Starting PHX-030."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Start PHX-030 pen-test remediation — priority is 3 high-severity findings."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Tom, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    }
+  }
+}
