@@ -2,7 +2,7 @@
   "projects": [
     {
       "slug": "phoenix",
-      "name": "Phoenix",
+      "name": "Project Phoenix",
       "createdAt": "2026-06-05T19:59:00.151Z",
       "createdBy": "super_admin",
       "setupComplete": true,
