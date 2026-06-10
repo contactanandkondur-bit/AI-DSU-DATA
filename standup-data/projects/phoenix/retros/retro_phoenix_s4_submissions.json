@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sub_s4_001",
+    "wentWell": "Best sprint velocity yet — 82/90 SP. Priya's DB optimisation dropping p95 from 2.1s to 340ms was the headline. Client will notice.",
+    "improve": "PHX-037 responsive tables underestimated again. We keep saying \"simple UI component\" without thinking about sort/filter state complexity.",
+    "recognition": "Priya Sharma — remarkable performance work. 70% DB load reduction and sub-400ms p95. That will make UAT so much smoother.",
+    "submittedAt": "2026-05-16T09:12:00.000Z"
+  },
+  {
+    "id": "sub_s4_002",
+    "wentWell": "Raj's analytics aggregation API was delivered without a single bug found in QA. That never happens with complex data pipelines.",
+    "improve": "Sprint had no buffer for unexpected scope complexity. We accepted PHX-037 carry-over but we should have flagged it earlier in the sprint.",
+    "recognition": "Raj Patel — analytics API with zero bugs in QA. PDF export generation is genuinely impressive — Apex Bank's finance team will love it.",
+    "submittedAt": "2026-05-16T09:21:00.000Z"
+  },
+  {
+    "id": "sub_s4_003",
+    "wentWell": "All 11 pen-test findings from Sprint 3 are now resolved and signed off. Security posture is excellent going into UAT.",
+    "improve": "Emma and the backend team aren't syncing regularly enough on integration contracts. We caught a discrepancy late in the sprint.",
+    "recognition": "James Wu — zero defects in final regression, 99% cross-browser pass rate. The QA standard on this project is genuinely world-class.",
+    "submittedAt": "2026-05-16T09:30:00.000Z"
+  },
+  {
+    "id": "sub_s4_004",
+    "wentWell": "Redis caching reduced database load by 70% — this was a nice architecture win that will help us scale for more Apex Bank users.",
+    "improve": "Staging to UAT migration documentation was written in a rush at end of sprint. Runbooks need to be written as the work is done, not retrospectively.",
+    "recognition": "Tom Bradley — all 11 pen-test findings resolved. Security sign-off complete before UAT. This is exactly the right approach.",
+    "submittedAt": "2026-05-16T09:42:00.000Z"
+  },
+  {
+    "id": "sub_s4_005",
+    "wentWell": "The PDF export looks genuinely professional. Emma's chart themes and Raj's data pipeline combine really well. Client demo will impress.",
+    "improve": "We need fortnightly frontend-backend integration syncs. Two near-misses this sprint where API contract and UI expectations didn't align.",
+    "recognition": "Emma Clarke — beautiful chart themes and email template. The visual quality of the reporting module is exceptional.",
+    "submittedAt": "2026-05-16T09:54:00.000Z"
+  }
+]
