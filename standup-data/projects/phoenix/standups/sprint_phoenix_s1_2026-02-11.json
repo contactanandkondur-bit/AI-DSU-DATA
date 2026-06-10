@@ -1,0 +1,210 @@
+{
+  "sprintId": "sprint_phoenix_s1",
+  "date": "2026-02-11",
+  "updates": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "submittedAt": "2026-02-11T09:24:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-002 MFA UI is 80% done but blocked — backend OTP service endpoint not yet available from Apex Bank integration team."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Holding on PHX-002 until OTP endpoint is available. Picking up design review tasks to stay productive."
+        },
+        {
+          "role": "assistant",
+          "content": "You've mentioned a blocker — can you give me more detail so the SM can act on it?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-002 MFA blocked — Apex Bank has not provided OTP service endpoint credentials. Raised with client delivery manager 3 days ago, no response yet."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Sarah, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "submittedAt": "2026-02-11T09:30:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-003 Done and deployed to staging. Starting PHX-004 RBAC design."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Continue PHX-004 RBAC — target permission middleware complete today."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Raj, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "submittedAt": "2026-02-11T09:11:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-006 design system progressing well — 14 core components built."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete remaining PHX-006 components (Input, Badge, Alert)."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Emma, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "submittedAt": "2026-02-11T09:26:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning James! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-008 auth tests 60% — login and logout flows covered. MFA tests blocked (same OTP issue)."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PHX-008 for non-MFA flows. Mark MFA tests as pending."
+        },
+        {
+          "role": "assistant",
+          "content": "You've mentioned a blocker — can you give me more detail so the SM can act on it?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-008 MFA tests cannot be written — same OTP service dependency as Sarah."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks James, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "submittedAt": "2026-02-11T09:34:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Priya! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-009 Done! PHX-010 virus scan service — hit a wall. No API key from Apex Bank CyberSec team."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Raised PHX-010 blocker via official channels. Working on upload API performance improvements while waiting."
+        },
+        {
+          "role": "assistant",
+          "content": "You've mentioned a blocker — can you give me more detail so the SM can act on it?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-010 blocked — Apex Bank CyberSec team has not provided VirusTotal/ClamAV API key. Requested on sprint Day 1. Escalated to client PM."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Priya, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "submittedAt": "2026-02-11T09:12:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Tom! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-012 CI/CD pipeline working — lint, test, build, deploy all automated."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Add staging deployment step and test full pipeline run."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Tom, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    }
+  }
+}
