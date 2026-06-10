@@ -1,1 +1,49 @@
-{"test":true}
+{
+  "projectName": "Project Phoenix",
+  "clientName": "Apex Bank",
+  "sprintDurationWeeks": 2,
+  "workingDaysPerSprint": 10,
+  "windowStart": "09:00",
+  "windowEnd": "11:00",
+  "timezone": "Europe/London",
+  "setupComplete": true,
+  "members": [
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "role": "Senior Developer",
+      "spCapacity": 20
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "role": "Full Stack Developer",
+      "spCapacity": 18
+    },
+    {
+      "name": "Emma Clarke",
+      "email": "emma.clarke@deloitte.com",
+      "role": "Frontend Developer",
+      "spCapacity": 16
+    },
+    {
+      "name": "James Wu",
+      "email": "james.wu@deloitte.com",
+      "role": "QA Lead",
+      "spCapacity": 15
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@deloitte.com",
+      "role": "Backend Developer",
+      "spCapacity": 18
+    },
+    {
+      "name": "Tom Bradley",
+      "email": "tom.bradley@deloitte.com",
+      "role": "DevOps Engineer",
+      "spCapacity": 12
+    }
+  ],
+  "updatedAt": "2026-06-10T16:20:49.980Z"
+}
