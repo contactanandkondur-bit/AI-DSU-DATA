@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sub_s1_001",
+    "wentWell": "Tom got the CI/CD pipeline running from day one — no manual deployments ever. Complete game changer.",
+    "improve": "The MFA blocker from Apex Bank absolutely killed our velocity. We need to sort out credentials BEFORE the sprint starts next time.",
+    "recognition": "Tom Bradley — phenomenal environment setup, the whole team benefited from his groundwork immediately.",
+    "submittedAt": "2026-02-14T09:15:00.000Z"
+  },
+  {
+    "id": "sub_s1_002",
+    "wentWell": "Emma's design system is incredible — I've been reusing her components for everything. Saved me at least 2 days of work.",
+    "improve": "We were blocked for almost a week waiting for VirusTotal API key from the CyberSec team. There was no escalation path and emails went unanswered.",
+    "recognition": "Emma Clarke — delivered 22 design system components ahead of schedule. The whole UI layer is built on her foundations.",
+    "submittedAt": "2026-02-14T09:22:00.000Z"
+  },
+  {
+    "id": "sub_s1_003",
+    "wentWell": "Raj's JWT auth API was well-architected from the start — I haven't had to touch it since. Clean code, well tested.",
+    "improve": "Sprint planning didn't account for the possibility of client not delivering credentials on time. We need a pre-sprint dependency checklist.",
+    "recognition": "Sarah Mitchell — stayed productive and professional while blocked. Found useful tasks instead of just waiting around.",
+    "submittedAt": "2026-02-14T09:31:00.000Z"
+  },
+  {
+    "id": "sub_s1_004",
+    "wentWell": "Good team energy for the first sprint. Everyone helped each other and there was no blame culture when things went wrong.",
+    "improve": "PHX-004 RBAC was underestimated — I flagged it early but it still spilled. Better scope breakdown during planning would help.",
+    "recognition": "Raj Patel — clean JWT architecture designed up front. Made MFA integration straightforward once the OTP endpoint arrived.",
+    "submittedAt": "2026-02-14T09:44:00.000Z"
+  },
+  {
+    "id": "sub_s1_005",
+    "wentWell": "Development environments were stable from day one. Tom's IaC templates meant everything was reproducible and documented.",
+    "improve": "Two separate blockers from the same client (Apex Bank) suggests a systemic issue with their delivery process. We need formal SLAs for credential delivery.",
+    "recognition": "Priya Sharma — great attitude about the blocker. Documented everything clearly so we could pick up immediately in Sprint 2.",
+    "submittedAt": "2026-02-14T09:52:00.000Z"
+  },
+  {
+    "id": "sub_s1_006",
+    "wentWell": "Daily standups with Anand were efficient and the blockers were surfaced quickly. AI standup tool is genuinely useful.",
+    "improve": "As SM, I should have escalated both blockers to Apex Bank PMO on Day 1 rather than waiting 3 days. Lesson learned — escalate immediately.",
+    "recognition": "Entire team for keeping positive spirits despite a rough first sprint. The foundation we built is solid.",
+    "submittedAt": "2026-02-14T10:05:00.000Z"
+  }
+]
