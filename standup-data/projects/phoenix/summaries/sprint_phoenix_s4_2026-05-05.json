@@ -1,0 +1,224 @@
+{
+  "sprintId": "sprint_phoenix_s4",
+  "date": "2026-05-05",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Sprint 4 kick-off. Team energy is high. Starting PHX-031 reporting dashboard.",
+      "today": "Build main reporting dashboard layout for PHX-031.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-031",
+          "description": "Reporting dashboard main layout",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "40%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-032",
+          "description": "Velocity & burndown chart components",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-031",
+        "PHX-032"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Started PHX-033 analytics API. Data model designed.",
+      "today": "Implement sprint metrics aggregation endpoints for PHX-033.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-033",
+          "description": "Analytics data aggregation API",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "25%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-034",
+          "description": "Report generation & PDF export",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-033",
+        "PHX-034"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Starting PHX-035 Recharts integration. Customising colour themes to Apex Bank branding.",
+      "today": "Build custom chart themes and wrapper components for PHX-035.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-035",
+          "description": "Recharts integration & custom themes",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "35%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-036",
+          "description": "Executive summary email template",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-035",
+        "PHX-036"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Starting PHX-038 reporting E2E test suite.",
+      "today": "Write E2E tests for reporting dashboard and export flows.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-038",
+          "description": "Reporting E2E test suite",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "30%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-039",
+          "description": "Cross-browser compatibility testing",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-038",
+        "PHX-039"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Sprint 4 start. PHX-040 DB query analysis complete — 6 slow queries identified.",
+      "today": "Begin query optimisation for PHX-040 — targeting p95 < 500ms.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-040",
+          "description": "Query optimisation & DB indexing",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "40%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-041",
+          "description": "Caching layer (Redis) for reports",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-040",
+        "PHX-041"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-05-05",
+      "yesterday": "Completing remaining PHX-030 pen-test remediations.",
+      "today": "Resolve 3 remaining medium-severity pen-test findings for PHX-030.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-030",
+          "description": "Pen-test remediation & hardening",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "75%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-042",
+          "description": "Staging → UAT environment migration",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-030",
+        "PHX-042"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
