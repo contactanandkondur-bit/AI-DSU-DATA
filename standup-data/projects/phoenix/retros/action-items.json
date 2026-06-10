@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ai_s1_001",
+    "retroId": "retro_phoenix_s1",
+    "sprintName": "Sprint 1 — Authentication & Foundation",
+    "text": "Create a pre-sprint client dependency checklist — all required credentials and API access must be confirmed before sprint planning begins",
+    "owner": "Team",
+    "status": "done",
+    "createdAt": "2026-02-14T11:30:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s1_002",
+    "retroId": "retro_phoenix_s1",
+    "sprintName": "Sprint 1 — Authentication & Foundation",
+    "text": "Escalate unresolved client blockers to Apex Bank PMO within 24 hours of first report, not at end-of-sprint",
+    "owner": "Anand",
+    "status": "done",
+    "createdAt": "2026-02-14T11:30:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s1_003",
+    "retroId": "retro_phoenix_s1",
+    "sprintName": "Sprint 1 — Authentication & Foundation",
+    "text": "Document MFA integration pattern for Sprint 2 handover so no context is lost",
+    "owner": "Sarah Mitchell",
+    "status": "done",
+    "createdAt": "2026-02-14T11:30:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s2_001",
+    "retroId": "retro_phoenix_s2",
+    "sprintName": "Sprint 2 — Document Management",
+    "text": "All UI wizard stories must be broken into per-step sub-tasks before pointing — no wizard ticket to be pointed as a single item",
+    "owner": "Team",
+    "status": "done",
+    "createdAt": "2026-02-28T11:20:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s2_002",
+    "retroId": "retro_phoenix_s2",
+    "sprintName": "Sprint 2 — Document Management",
+    "text": "DAST scan integration to be completed as Sprint 3 first priority — no further deferral accepted",
+    "owner": "Tom Bradley",
+    "status": "done",
+    "createdAt": "2026-02-28T11:20:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s2_003",
+    "retroId": "retro_phoenix_s2",
+    "sprintName": "Sprint 2 — Document Management",
+    "text": "Hold story refinement session for PHX-017 remaining work before Sprint 3 kick-off to prevent underestimation recurrence",
+    "owner": "Emma Clarke",
+    "status": "done",
+    "createdAt": "2026-02-28T11:20:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s3_001",
+    "retroId": "retro_phoenix_s3",
+    "sprintName": "Sprint 3 — KYC/AML Compliance",
+    "text": "Schedule requirements lock-in workshop in Week 1 of all future Deloitte digital projects — add to engagement delivery standards",
+    "owner": "Anand",
+    "status": "done",
+    "createdAt": "2026-03-14T11:15:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s3_002",
+    "retroId": "retro_phoenix_s3",
+    "sprintName": "Sprint 3 — KYC/AML Compliance",
+    "text": "Start pen-test activities no later than Sprint 2 of every project to allow full remediation time before UAT",
+    "owner": "Tom Bradley",
+    "status": "done",
+    "createdAt": "2026-03-14T11:15:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s3_003",
+    "retroId": "retro_phoenix_s3",
+    "sprintName": "Sprint 3 — KYC/AML Compliance",
+    "text": "Formally allocate 10% of each sprint capacity for technical debt reduction — add tech debt stories to the backlog",
+    "owner": "Team",
+    "status": "open",
+    "createdAt": "2026-03-14T11:15:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s4_001",
+    "retroId": "retro_phoenix_s4",
+    "sprintName": "Sprint 4 — Reporting & Analytics",
+    "text": "Create a frontend complexity checklist for sortable/filterable table tickets — include state management complexity flags in estimation",
+    "owner": "Emma Clarke",
+    "status": "open",
+    "createdAt": "2026-05-16T11:25:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s4_002",
+    "retroId": "retro_phoenix_s4",
+    "sprintName": "Sprint 4 — Reporting & Analytics",
+    "text": "Add UAT performance benchmark (p95 < 1s) to the project Definition of Done — must be verified before client UAT sign-off",
+    "owner": "Anand",
+    "status": "open",
+    "createdAt": "2026-05-16T11:25:00.000Z",
+    "deferredFrom": null
+  },
+  {
+    "id": "ai_s4_003",
+    "retroId": "retro_phoenix_s4",
+    "sprintName": "Sprint 4 — Reporting & Analytics",
+    "text": "Introduce fortnightly frontend-backend integration sync meeting to catch contract mismatches earlier in the sprint",
+    "owner": "Team",
+    "status": "open",
+    "createdAt": "2026-05-16T11:25:00.000Z",
+    "deferredFrom": null
+  }
+]
