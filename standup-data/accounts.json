@@ -6,6 +6,13 @@
       "displayName": "Anand Kondur",
       "createdAt": "2026-06-05T19:58:41.057Z",
       "createdBy": "super_admin"
+    },
+    {
+      "email": "sm.phoenix@deloitte.com",
+      "passwordHash": "$2a$10$8LmBP.s3xECE6Um59bLMOOjUBsnW1.GEfcHPwQdkfi2/G90yXoTaO",
+      "displayName": "Phoenix SM",
+      "createdAt": "2026-06-10T16:12:32.742Z",
+      "createdBy": "super_admin"
     }
   ]
 }
