@@ -1,0 +1,151 @@
+{
+  "id": "sprint_phoenix_s5",
+  "name": "Sprint 5 — Dashboard & API Integration",
+  "startDate": "2026-05-27",
+  "endDate": "2026-06-13",
+  "windowStart": "07:00",
+  "windowEnd": "20:00",
+  "pin": "$2a$10$AVlsRsmxk41lvkM8zhFN4./viJQ7uqztukU1PKNFy.3xLVq400E.6",
+  "pinDisplay": "123456",
+  "closed": false,
+  "createdAt": "2026-05-26T08:00:00.000Z",
+  "goal": "Integrate Core Banking API, complete client portal dashboard, and prepare for UAT.",
+  "committedSP": 88,
+  "completedSP": null,
+  "members": [
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-043",
+          "description": "Client portal dashboard (main view)",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-044",
+          "description": "Notification centre & alerts UI",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Code Review",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-045",
+          "description": "Core Banking API connector (Apex Bank)",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 13
+        },
+        {
+          "ticketId": "PHX-046",
+          "description": "Transaction fetch & sync service",
+          "assignedTo": "Raj Patel",
+          "status": "In Development",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Emma Clarke",
+      "email": "emma.clarke@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-047",
+          "description": "Account overview & balance UI",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-048",
+          "description": "Transaction history & search UI",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-049",
+          "description": "Mobile-responsive layout audit",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "James Wu",
+      "email": "james.wu@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-050",
+          "description": "API integration test suite",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-051",
+          "description": "Dashboard load & performance testing",
+          "assignedTo": "James Wu",
+          "status": "Blocked",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-052",
+          "description": "API gateway & rate-limiting layer",
+          "assignedTo": "Priya Sharma",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-053",
+          "description": "Dashboard query performance fix",
+          "assignedTo": "Priya Sharma",
+          "status": "In Development",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Tom Bradley",
+      "email": "tom.bradley@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-054",
+          "description": "Production infrastructure provisioning",
+          "assignedTo": "Tom Bradley",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-055",
+          "description": "Monitoring, logging & alerting setup",
+          "assignedTo": "Tom Bradley",
+          "status": "In Development",
+          "storyPoints": 5
+        }
+      ]
+    }
+  ]
+}
