@@ -1,0 +1,145 @@
+{
+  "id": "sprint_phoenix_s2",
+  "name": "Sprint 2 — Document Management",
+  "startDate": "2026-02-17",
+  "endDate": "2026-02-28",
+  "windowStart": "09:00",
+  "windowEnd": "11:00",
+  "pin": "$2a$10$v3wb0MFgRpGrZwNMfkR0a.yWqfF67EN7lWKv.0rBjvwAZyaoWuP2m",
+  "pinDisplay": "999999",
+  "closed": true,
+  "closedAt": "2026-02-28T17:00:00.000Z",
+  "createdAt": "2026-02-16T08:00:00.000Z",
+  "goal": "Complete document upload, validation and management features.",
+  "committedSP": 80,
+  "completedSP": 60,
+  "members": [
+    {
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-002",
+          "description": "Multi-factor authentication flow",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-013",
+          "description": "Document upload UI components",
+          "assignedTo": "Sarah Mitchell",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-014",
+          "description": "Document preview & metadata panel",
+          "assignedTo": "Sarah Mitchell",
+          "status": "In Development",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Raj Patel",
+      "email": "raj.patel@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-004",
+          "description": "User roles & permissions (RBAC)",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-015",
+          "description": "Document management API (CRUD)",
+          "assignedTo": "Raj Patel",
+          "status": "Done",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Emma Clarke",
+      "email": "emma.clarke@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-016",
+          "description": "Document list & filter UI",
+          "assignedTo": "Emma Clarke",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-017",
+          "description": "Onboarding wizard (steps 1–3)",
+          "assignedTo": "Emma Clarke",
+          "status": "In Development",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "James Wu",
+      "email": "james.wu@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-008",
+          "description": "Auth flow acceptance test suite",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 5
+        },
+        {
+          "ticketId": "PHX-018",
+          "description": "Document upload integration tests",
+          "assignedTo": "James Wu",
+          "status": "Done",
+          "storyPoints": 5
+        }
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-010",
+          "description": "File validation & virus scan service",
+          "assignedTo": "Priya Sharma",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-019",
+          "description": "Document versioning & audit trail API",
+          "assignedTo": "Priya Sharma",
+          "status": "In Development",
+          "storyPoints": 8
+        }
+      ]
+    },
+    {
+      "name": "Tom Bradley",
+      "email": "tom.bradley@deloitte.com",
+      "tickets": [
+        {
+          "ticketId": "PHX-020",
+          "description": "S3 bucket policy & IAM role setup",
+          "assignedTo": "Tom Bradley",
+          "status": "Done",
+          "storyPoints": 8
+        },
+        {
+          "ticketId": "PHX-021",
+          "description": "Security scan integration in pipeline",
+          "assignedTo": "Tom Bradley",
+          "status": "In Development",
+          "storyPoints": 5
+        }
+      ]
+    }
+  ]
+}
