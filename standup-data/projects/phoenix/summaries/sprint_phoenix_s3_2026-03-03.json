@@ -1,0 +1,225 @@
+{
+  "sprintId": "sprint_phoenix_s3",
+  "date": "2026-03-03",
+  "summaries": {
+    "sarah.mitchell@deloitte.com": {
+      "memberName": "Sarah Mitchell",
+      "memberEmail": "sarah.mitchell@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "Sprint 3 kick-off! KYC requirements workshop yesterday was a game-changer — finally have full clarity. Excited to move fast.",
+      "today": "Complete PHX-014 document preview panel and start PHX-022 KYC UI.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-014",
+          "description": "Document preview & metadata panel",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "70%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-022",
+          "description": "KYC identity verification UI",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-023",
+          "description": "AML risk scoring display panel",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-014",
+        "PHX-022",
+        "PHX-023"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "KYC workshop clarity is already showing — team moving with much more confidence."
+    },
+    "raj.patel@deloitte.com": {
+      "memberName": "Raj Patel",
+      "memberEmail": "raj.patel@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "KYC requirements workshop complete. Requirements doc signed off. Raj starting PHX-024 KYC API immediately.",
+      "today": "Begin PHX-024 KYC identity verification API implementation.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-024",
+          "description": "KYC identity verification API",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": ""
+        },
+        {
+          "ticketId": "PHX-025",
+          "description": "AML risk scoring engine integration",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-024",
+        "PHX-025"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "emma.clarke@deloitte.com": {
+      "memberName": "Emma Clarke",
+      "memberEmail": "emma.clarke@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "Picked up PHX-017 steps 4-6 from Sprint 2. Clear requirements make this straightforward.",
+      "today": "Complete PHX-017 wizard steps 4-6.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-017",
+          "description": "Onboarding wizard (steps 1–3)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "Completed steps 4-6 also — full wizard now working"
+        },
+        {
+          "ticketId": "PHX-026",
+          "description": "Onboarding wizard (steps 4–6)",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-017",
+        "PHX-026"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "james.wu@deloitte.com": {
+      "memberName": "James Wu",
+      "memberEmail": "james.wu@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "Sprint 3 kick-off. KYC requirements clarity also unblocks test scenario design.",
+      "today": "Start writing KYC compliance test scenarios for PHX-027.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-027",
+          "description": "KYC/AML compliance test scenarios",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "20%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-028",
+          "description": "Regulatory edge case test coverage",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-027",
+        "PHX-028"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "priya.sharma@deloitte.com": {
+      "memberName": "Priya Sharma",
+      "memberEmail": "priya.sharma@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "Completing PHX-019 versioning API. Expect Done by EOD.",
+      "today": "Complete PHX-019 and start PHX-029 audit log service.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-019",
+          "description": "Document versioning & audit trail API",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": "Version history and diff API complete"
+        },
+        {
+          "ticketId": "PHX-029",
+          "description": "Compliance audit log service",
+          "confirmedStatus": "In Development",
+          "previousStatus": "To Do",
+          "percentComplete": "15%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-019",
+        "PHX-029"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "tom.bradley@deloitte.com": {
+      "memberName": "Tom Bradley",
+      "memberEmail": "tom.bradley@deloitte.com",
+      "date": "2026-03-03",
+      "yesterday": "Completing PHX-021 pipeline security scans.",
+      "today": "Finish PHX-021 DAST integration and run first full scan.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-021",
+          "description": "Security scan integration in pipeline",
+          "confirmedStatus": "In Development",
+          "previousStatus": "In Development",
+          "percentComplete": "70%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-030",
+          "description": "Pen-test remediation & hardening",
+          "confirmedStatus": "To Do",
+          "previousStatus": "To Do",
+          "percentComplete": null,
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-021",
+        "PHX-030"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
