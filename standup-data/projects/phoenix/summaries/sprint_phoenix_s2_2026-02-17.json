@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s2",
   "date": "2026-02-17",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "Sprint 2 kick-off. OTP credentials finally arrived this morning! Unblocked. Restarting PHX-002.",
       "today": "Get PHX-002 MFA integration working now that OTP endpoint is available.",
@@ -45,9 +44,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": "OTP blocker resolved! Sprint 2 starting well."
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "Continued PHX-004 RBAC — permission middleware 70% done.",
       "today": "Complete PHX-004 RBAC permission middleware.",
@@ -80,9 +78,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "Starting PHX-016 document list UI. Reusing design system components from Sprint 1.",
       "today": "Build document list view with sorting and filters for PHX-016.",
@@ -115,9 +112,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "Completing PHX-008 MFA tests now that OTP endpoint is live.",
       "today": "Write MFA test cases for PHX-008 using new OTP endpoint.",
@@ -150,9 +146,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "CyberSec API key arrived! PHX-010 now unblocked. Starting integration immediately.",
       "today": "Integrate VirusTotal API for PHX-010 file scanning.",
@@ -185,9 +180,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": "Second blocker from Sprint 1 also resolved. Both API keys now in hand."
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-17",
       "yesterday": "S3 bucket policies and IAM roles for document storage — PHX-020 50% done.",
       "today": "Configure S3 lifecycle rules and cross-region replication for PHX-020.",
