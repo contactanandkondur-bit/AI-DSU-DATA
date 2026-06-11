@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s5",
   "date": "2026-06-06",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-043 portal dashboard Done! Looks excellent. Starting PHX-044 notification centre.",
       "today": "Build PHX-044 notification centre UI and alert management.",
@@ -46,9 +45,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-045 Done and deployed! Starting PHX-046 transaction sync service.",
       "today": "Design PHX-046 transaction fetch architecture — webhook vs polling decision.",
@@ -81,9 +79,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-048 Done. PHX-049 mobile responsive audit in progress.",
       "today": "Complete PHX-049 mobile responsive audit and fix any breakpoints.",
@@ -125,9 +122,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-050 Done. Starting PHX-051 dashboard performance testing — found a serious issue.",
       "today": "PHX-050 regression: all passing. Starting PHX-051 performance benchmarks.",
@@ -160,9 +156,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-052 Done. Starting PHX-053 — James flagged a dashboard performance issue. Investigating N+1 query.",
       "today": "Diagnose dashboard N+1 query issue flagged by James. Target: root cause identified today.",
@@ -195,9 +190,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-06-06",
       "yesterday": "PHX-054 Done. Production environment ready. Starting PHX-055 monitoring setup.",
       "today": "Set up CloudWatch dashboards and PagerDuty integration for PHX-055.",
