@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s1",
   "date": "2026-02-03",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Kicked off sprint, reviewed auth specs with Raj. Set up React component scaffolding for login UI.",
       "today": "Implement login form validation and error states for PHX-001.",
@@ -37,9 +36,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Reviewed JWT auth requirements. Designed token refresh strategy. Started PHX-003 API.",
       "today": "Implement JWT login endpoint and token refresh logic.",
@@ -72,9 +70,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Set up React Router, lazy loading, and Tailwind config. PHX-005 app shell 50%.",
       "today": "Complete PHX-005 application shell and routing.",
@@ -107,9 +104,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Evaluated Playwright vs Cypress. Chose Playwright. Set up PHX-007 test harness.",
       "today": "Complete Playwright setup and write first smoke test.",
@@ -142,9 +138,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Reviewed S3 architecture with Tom. Designed upload API contract. Starting PHX-009.",
       "today": "Build S3 multi-part upload endpoint for PHX-009.",
@@ -177,9 +172,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-03",
       "yesterday": "Provisioned dev and staging environments on AWS. PHX-011 infra 70% complete.",
       "today": "Complete environment provisioning and document access details.",
