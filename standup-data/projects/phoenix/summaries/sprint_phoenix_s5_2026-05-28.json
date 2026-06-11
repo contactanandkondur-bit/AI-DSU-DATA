@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s5",
   "date": "2026-05-28",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Sprint 5 kick-off. Strong team energy. Starting PHX-037 responsive tables and PHX-043 dashboard.",
       "today": "Complete PHX-037 responsive tables and start PHX-043 portal dashboard.",
@@ -46,9 +45,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Starting PHX-045 Core Banking API connector. API contract reviewed with Apex Bank.",
       "today": "Implement OAuth2 flow and account endpoint for PHX-045.",
@@ -81,9 +79,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Starting PHX-047 account overview UI and PHX-048 transaction history.",
       "today": "Build account overview cards and balance display for PHX-047.",
@@ -125,9 +122,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Starting PHX-050 API integration test suite for new banking endpoints.",
       "today": "Write integration tests for Core Banking API endpoints.",
@@ -160,9 +156,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Starting PHX-052 API gateway and rate-limiting.",
       "today": "Implement API gateway, rate-limiting and circuit breakers for PHX-052.",
@@ -195,9 +190,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-05-28",
       "yesterday": "Starting PHX-054 production infrastructure provisioning.",
       "today": "Provision production EC2 instances, RDS and ElastiCache for PHX-054.",
