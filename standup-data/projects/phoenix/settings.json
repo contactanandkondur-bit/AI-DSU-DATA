@@ -10,7 +10,7 @@
   "members": [
     {
       "name": "Sarah Mitchell",
-      "role": "Senior Developer",
+      "role": "Full Stack Developer",
       "spCapacity": 20
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "James Wu",
-      "role": "QA Lead",
+      "role": "QA Engineer",
       "spCapacity": 15
     },
     {
@@ -39,5 +39,5 @@
       "spCapacity": 12
     }
   ],
-  "updatedAt": "2026-06-11T14:16:51.583Z"
+  "updatedAt": "2026-06-11T19:22:33.847Z"
 }
