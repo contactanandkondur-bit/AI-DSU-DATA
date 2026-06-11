@@ -4,7 +4,7 @@
   "updates": {
     "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "submittedAt": "2026-06-09T09:27:00.000Z",
+      "submittedAt": "2026-06-09T09:16:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -38,7 +38,7 @@
     },
     "Raj Patel": {
       "memberName": "Raj Patel",
-      "submittedAt": "2026-06-09T09:13:00.000Z",
+      "submittedAt": "2026-06-09T09:35:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -46,7 +46,7 @@
         },
         {
           "role": "user",
-          "content": "PHX-045 Done. PHX-046 transaction sync 55% — batch fetch working, real-time webhooks in progress."
+          "content": "PHX-045 Done. PHX-046 transaction sync 55% — batch fetch working, real-time webhooks in progress. Also reviewed PHX-044 for Sarah."
         },
         {
           "role": "assistant",
@@ -54,7 +54,7 @@
         },
         {
           "role": "user",
-          "content": "Complete PHX-046 webhook integration. May carry final testing to Jun 10."
+          "content": "Complete PHX-046 webhook integration."
         },
         {
           "role": "assistant",
@@ -72,7 +72,7 @@
     },
     "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "submittedAt": "2026-06-09T09:13:00.000Z",
+      "submittedAt": "2026-06-09T09:22:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -80,7 +80,7 @@
         },
         {
           "role": "user",
-          "content": "PHX-047, PHX-048, PHX-049 all Done. Emma finished sprint work 2 days early!"
+          "content": "PHX-047, PHX-048, PHX-049 all Done. Emma finished sprint work 2 days early! Helping with Sarah's code review."
         },
         {
           "role": "assistant",
@@ -106,7 +106,7 @@
     },
     "James Wu": {
       "memberName": "James Wu",
-      "submittedAt": "2026-06-09T09:26:00.000Z",
+      "submittedAt": "2026-06-09T09:22:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -114,7 +114,7 @@
         },
         {
           "role": "user",
-          "content": "PHX-051 BLOCKED. Dashboard loading 45 accounts takes 8.2 seconds. Completely unacceptable for UAT."
+          "content": "PHX-051 still in QA / Testing — performance blocker confirmed. Dashboard 8.2s with 45 accounts. Cannot pass to UAT like this."
         },
         {
           "role": "assistant",
@@ -122,7 +122,7 @@
         },
         {
           "role": "user",
-          "content": "PHX-051 blocked until Priya resolves dashboard query performance. Documenting findings."
+          "content": "PHX-051 blocked — escalating critical performance bug. Documenting full findings for Priya."
         },
         {
           "role": "assistant",
@@ -130,7 +130,7 @@
         },
         {
           "role": "user",
-          "content": "PHX-051 performance testing blocked — dashboard takes 8.2s to load with 45 accounts. Root cause is N+1 query in accounts aggregation endpoint (PHX-053). Priya is investigating."
+          "content": "PHX-051 QA blocked — critical performance bug: dashboard 8.2s load with 45 accounts. N+1 query in aggregation layer confirmed by Priya. Blocking UAT go-live."
         },
         {
           "role": "assistant",
@@ -140,7 +140,7 @@
     },
     "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "submittedAt": "2026-06-09T09:12:00.000Z",
+      "submittedAt": "2026-06-09T09:16:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -174,7 +174,7 @@
     },
     "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "submittedAt": "2026-06-09T09:37:00.000Z",
+      "submittedAt": "2026-06-09T09:21:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -190,7 +190,7 @@
         },
         {
           "role": "user",
-          "content": "Complete PHX-055 alerting rules. May carry final runbook documentation to Jun 10."
+          "content": "Complete PHX-055 alerting rules and start runbook documentation."
         },
         {
           "role": "assistant",
