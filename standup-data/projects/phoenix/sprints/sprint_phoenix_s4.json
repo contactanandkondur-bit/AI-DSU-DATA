@@ -5,7 +5,7 @@
   "endDate": "2026-05-16",
   "windowStart": "09:00",
   "windowEnd": "11:00",
-  "pin": "$2a$10$BLdiw.Y50Hlzi5PXqjDpaum33DfABLF2EdJPXeauI7v99IIBn9/qy",
+  "pin": "$2a$10$vcx54na7LS/F72zN0gkyPuMAeaOjwntGKDIGxlxosKWw.az0auh4y",
   "pinDisplay": "999999",
   "closed": true,
   "closedAt": "2026-05-16T17:00:00.000Z",
@@ -16,7 +16,6 @@
   "members": [
     {
       "name": "Sarah Mitchell",
-      "email": "sarah.mitchell@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-031",
@@ -36,7 +35,6 @@
     },
     {
       "name": "Raj Patel",
-      "email": "raj.patel@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-033",
@@ -56,7 +54,6 @@
     },
     {
       "name": "Emma Clarke",
-      "email": "emma.clarke@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-035",
@@ -83,7 +80,6 @@
     },
     {
       "name": "James Wu",
-      "email": "james.wu@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-038",
@@ -103,7 +99,6 @@
     },
     {
       "name": "Priya Sharma",
-      "email": "priya.sharma@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-040",
@@ -123,7 +118,6 @@
     },
     {
       "name": "Tom Bradley",
-      "email": "tom.bradley@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-030",
