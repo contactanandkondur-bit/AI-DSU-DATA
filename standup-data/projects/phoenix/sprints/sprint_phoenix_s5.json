@@ -5,9 +5,9 @@
   "endDate": "2026-06-13",
   "windowStart": "07:00",
   "windowEnd": "20:00",
-  "pin": "$2a$10$hH42tJd.UJLPkLYf8vG.jugf9mYjbZ7shgn9rpT1RE10hAH83GmVK",
+  "pin": "$2a$10$kbshgAGwWduoo1EPcil6G.mo2kDPFOJbATplNKnOogjy0FfHanEve",
   "pinDisplay": "123456",
-  "closed": true,
+  "closed": false,
   "createdAt": "2026-05-26T08:00:00.000Z",
   "goal": "Integrate Core Banking API, complete client portal dashboard, and prepare for UAT.",
   "committedSP": 88,
@@ -15,7 +15,6 @@
   "members": [
     {
       "name": "Sarah Mitchell",
-      "email": "sarah.mitchell@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-037",
@@ -42,7 +41,6 @@
     },
     {
       "name": "Raj Patel",
-      "email": "raj.patel@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-045",
@@ -62,7 +60,6 @@
     },
     {
       "name": "Emma Clarke",
-      "email": "emma.clarke@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-047",
@@ -89,7 +86,6 @@
     },
     {
       "name": "James Wu",
-      "email": "james.wu@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-050",
@@ -109,7 +105,6 @@
     },
     {
       "name": "Priya Sharma",
-      "email": "priya.sharma@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-052",
@@ -129,7 +124,6 @@
     },
     {
       "name": "Tom Bradley",
-      "email": "tom.bradley@deloitte.com",
       "tickets": [
         {
           "ticketId": "PHX-054",
@@ -147,6 +141,5 @@
         }
       ]
     }
-  ],
-  "closedAt": "2026-06-11T11:18:11.615Z"
+  ]
 }
