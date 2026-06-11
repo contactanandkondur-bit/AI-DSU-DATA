@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s2",
   "date": "2026-02-21",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-002 MFA flow Done — OTP integration working end-to-end. Now on PHX-013 document upload UI.",
       "today": "Build document upload UI components for PHX-013.",
@@ -45,9 +44,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-004 RBAC Done. Starting PHX-015 document management API.",
       "today": "Design document management API schema for PHX-015.",
@@ -80,9 +78,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-016 Done. Starting PHX-017 onboarding wizard.",
       "today": "Start PHX-017 wizard stepper component.",
@@ -115,9 +112,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-008 fully Done — MFA coverage complete. Starting PHX-018.",
       "today": "Start document upload integration tests for PHX-018.",
@@ -150,9 +146,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-010 virus scan service Done. Thorough testing with EICAR test files.",
       "today": "Start PHX-019 document versioning and audit trail API.",
@@ -185,9 +180,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-21",
       "yesterday": "PHX-020 S3 setup Done. Starting PHX-021 security scan pipeline.",
       "today": "Integrate Snyk into CI/CD pipeline for PHX-021.",
