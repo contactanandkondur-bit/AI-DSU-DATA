@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s3",
   "date": "2026-03-03",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "Sprint 3 kick-off! KYC requirements workshop yesterday was a game-changer — finally have full clarity. Excited to move fast.",
       "today": "Complete PHX-014 document preview panel and start PHX-022 KYC UI.",
@@ -46,9 +45,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": "KYC workshop clarity is already showing — team moving with much more confidence."
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "KYC requirements workshop complete. Requirements doc signed off. Raj starting PHX-024 KYC API immediately.",
       "today": "Begin PHX-024 KYC identity verification API implementation.",
@@ -81,9 +79,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "Picked up PHX-017 steps 4-6 from Sprint 2. Clear requirements make this straightforward.",
       "today": "Complete PHX-017 wizard steps 4-6.",
@@ -116,9 +113,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "Sprint 3 kick-off. KYC requirements clarity also unblocks test scenario design.",
       "today": "Start writing KYC compliance test scenarios for PHX-027.",
@@ -151,9 +147,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "Completing PHX-019 versioning API. Expect Done by EOD.",
       "today": "Complete PHX-019 and start PHX-029 audit log service.",
@@ -186,9 +181,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-03-03",
       "yesterday": "Completing PHX-021 pipeline security scans.",
       "today": "Finish PHX-021 DAST integration and run first full scan.",
