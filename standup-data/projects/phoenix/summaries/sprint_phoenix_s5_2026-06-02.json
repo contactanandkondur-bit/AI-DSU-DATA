@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s5",
   "date": "2026-06-02",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-037 Done. PHX-043 client portal dashboard 60% — hero section and account cards complete.",
       "today": "Continue PHX-043 dashboard — transaction summary and KPI cards.",
@@ -46,9 +45,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-045 API connector 65% — authentication handshake and account data endpoints working.",
       "today": "Complete PHX-045 connector and write integration tests.",
@@ -81,9 +79,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-047 Done. PHX-048 transaction history UI 70% — list and detail views working.",
       "today": "Complete transaction history UI for PHX-048.",
@@ -125,9 +122,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-050 integration tests 60% — account, KYC and document endpoints covered.",
       "today": "Complete PHX-050 and run full regression suite.",
@@ -160,9 +156,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-052 Done. Rate-limiting and circuit breaker patterns implemented.",
       "today": "Complete PHX-052 and start PHX-053 performance investigation.",
@@ -195,9 +190,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-06-02",
       "yesterday": "PHX-054 production infra 70% — EC2, RDS, ElastiCache all provisioned.",
       "today": "Complete PHX-054 and set up DNS and SSL.",
