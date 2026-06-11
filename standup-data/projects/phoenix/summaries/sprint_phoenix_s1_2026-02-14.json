@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s1",
   "date": "2026-02-14",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "PHX-001 confirmed Done. PHX-002 still blocked on OTP endpoint — escalating to client.",
       "today": "Completing any remaining PHX-001 polish. PHX-002 marked as Blocked/Spillover.",
@@ -37,9 +36,8 @@
       "overallStatus": "At Risk",
       "scrumMasterNotes": "OTP blocker flagged to client. Sarah to continue other tasks while waiting."
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "PHX-003 complete. PHX-004 RBAC 40% — core permission model designed.",
       "today": "Wrap up PHX-004 RBAC foundations. Noting this may not fully complete this sprint.",
@@ -72,9 +70,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "PHX-005 and PHX-006 both Done. Great sprint for Emma!",
       "today": "Final review of PHX-006 component library.",
@@ -107,9 +104,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "PHX-007 Done. PHX-008 partial — cannot test MFA flow until OTP endpoint is available.",
       "today": "Finalise PHX-008 coverage excluding MFA. Note dependency for Sprint 2.",
@@ -142,9 +138,8 @@
       "overallStatus": "At Risk",
       "scrumMasterNotes": "PHX-008 partial completion expected. James to document pending MFA test cases for Sprint 2."
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "PHX-009 deployed. PHX-010 fully blocked — third day with no response from CyberSec team.",
       "today": "PHX-010 marked Blocked for sprint. Will carry into Sprint 2.",
@@ -177,9 +172,8 @@
       "overallStatus": "Blocked",
       "scrumMasterNotes": "Second blocker this sprint. Pattern emerging — client not providing credentials on time. Anand to raise formally with Apex Bank PMO."
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-14",
       "yesterday": "Both PHX-011 and PHX-012 Done. Solid sprint for infra.",
       "today": "Handover infra docs to team. No blockers.",
