@@ -6,42 +6,36 @@
   "teamCapacity": [
     {
       "name": "Sarah Mitchell",
-      "email": "sarah.mitchell@deloitte.com",
       "baseCapacity": 20,
       "holidays": 0,
       "availableSP": 20
     },
     {
       "name": "Raj Patel",
-      "email": "raj.patel@deloitte.com",
       "baseCapacity": 18,
       "holidays": 2,
       "availableSP": 16
     },
     {
       "name": "Emma Clarke",
-      "email": "emma.clarke@deloitte.com",
       "baseCapacity": 16,
       "holidays": 0,
       "availableSP": 16
     },
     {
       "name": "James Wu",
-      "email": "james.wu@deloitte.com",
       "baseCapacity": 15,
       "holidays": 1,
       "availableSP": 14
     },
     {
       "name": "Priya Sharma",
-      "email": "priya.sharma@deloitte.com",
       "baseCapacity": 18,
       "holidays": 0,
       "availableSP": 18
     },
     {
       "name": "Tom Bradley",
-      "email": "tom.bradley@deloitte.com",
       "baseCapacity": 12,
       "holidays": 3,
       "availableSP": 9
@@ -62,7 +56,7 @@
       "description": "Transaction fetch & sync service",
       "status": "In Development",
       "assignedTo": "Raj Patel",
-      "remainingSP": 2,
+      "remainingSP": 5,
       "selected": true
     },
     {
@@ -90,7 +84,7 @@
       "selected": true
     }
   ],
-  "totalSpilloverSP": 13,
+  "totalSpilloverSP": 16,
   "backlogTickets": [
     {
       "ticketId": "PHX-056",
@@ -98,7 +92,7 @@
       "storyPoints": 5,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "tom.bradley@deloitte.com",
+      "assignedTo": "Tom Bradley",
       "selected": true
     },
     {
@@ -107,8 +101,8 @@
       "storyPoints": 8,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "james.wu@deloitte.com",
-      "selected": false
+      "assignedTo": "James Wu",
+      "selected": true
     },
     {
       "ticketId": "PHX-058",
@@ -116,7 +110,7 @@
       "storyPoints": 5,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "sarah.mitchell@deloitte.com",
+      "assignedTo": "Sarah Mitchell",
       "selected": true
     },
     {
@@ -125,7 +119,7 @@
       "storyPoints": 8,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "raj.patel@deloitte.com",
+      "assignedTo": "Raj Patel",
       "selected": true
     },
     {
@@ -134,7 +128,7 @@
       "storyPoints": 8,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "james.wu@deloitte.com",
+      "assignedTo": "James Wu",
       "selected": true
     },
     {
@@ -143,7 +137,7 @@
       "storyPoints": 5,
       "priority": "Medium",
       "epic": "UAT & Launch",
-      "assignedTo": "priya.sharma@deloitte.com",
+      "assignedTo": "Priya Sharma",
       "selected": true
     },
     {
@@ -152,7 +146,7 @@
       "storyPoints": 5,
       "priority": "Medium",
       "epic": "UAT & Launch",
-      "assignedTo": "emma.clarke@deloitte.com",
+      "assignedTo": "Emma Clarke",
       "selected": true
     },
     {
@@ -161,7 +155,7 @@
       "storyPoints": 3,
       "priority": "High",
       "epic": "UAT & Launch",
-      "assignedTo": "sarah.mitchell@deloitte.com",
+      "assignedTo": "Sarah Mitchell",
       "selected": true
     },
     {
@@ -170,8 +164,8 @@
       "storyPoints": 3,
       "priority": "Medium",
       "epic": "UAT & Launch",
-      "assignedTo": "tom.bradley@deloitte.com",
-      "selected": true
+      "assignedTo": "Tom Bradley",
+      "selected": false
     },
     {
       "ticketId": "PHX-065",
@@ -184,6 +178,5 @@
     }
   ],
   "createdAt": "2026-06-09T10:00:00.000Z",
-  "updatedAt": "2026-06-11T11:29:33.384Z",
-  "totalCommittedSP": 55
+  "updatedAt": "2026-06-10T08:30:00.000Z"
 }
