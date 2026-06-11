@@ -10,6 +10,16 @@
         "admin1@abcd.com",
         "sm.phoenix@deloitte.com"
       ]
+    },
+    {
+      "slug": "team-capstone",
+      "name": "Team Capstone",
+      "createdAt": "2026-06-11T17:16:55.902Z",
+      "createdBy": "super_admin",
+      "setupComplete": false,
+      "admins": [
+        "shobhit@abcd.com"
+      ]
     }
   ]
 }
