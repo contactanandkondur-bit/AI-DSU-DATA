@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s4",
   "date": "2026-05-09",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-031 dashboard layout Done. Starting PHX-032 velocity charts.",
       "today": "Build velocity and burndown chart components for PHX-032.",
@@ -37,9 +36,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-033 analytics aggregation API 75% — sprint metrics and trend calculations working.",
       "today": "Complete PHX-033 and start PHX-034 PDF report generation.",
@@ -72,9 +70,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-035 Done. PHX-036 email template designed and coded.",
       "today": "Build email summary template for PHX-036.",
@@ -115,9 +112,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-038 E2E tests 70% — all chart and export flows covered.",
       "today": "Complete PHX-038 and start PHX-039 cross-browser testing.",
@@ -150,9 +146,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-040 query optimisation Done — p95 latency down from 2.1s to 340ms. Starting PHX-041.",
       "today": "Start Redis caching implementation for PHX-041.",
@@ -185,9 +180,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-05-09",
       "yesterday": "PHX-030 Done — all 11 pen-test findings resolved. Starting PHX-042 UAT migration.",
       "today": "Start staging → UAT environment migration for PHX-042.",
