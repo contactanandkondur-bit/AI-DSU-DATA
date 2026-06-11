@@ -125,12 +125,12 @@
     "James Wu": {
       "memberName": "James Wu",
       "date": "2026-06-06",
-      "yesterday": "PHX-050 Done. Starting PHX-051 dashboard performance testing — found a serious issue.",
-      "today": "PHX-050 regression: all passing. Starting PHX-051 performance benchmarks.",
+      "yesterday": "PHX-050 Done and regression all passing. Moved PHX-051 to QA / Testing — running dashboard load benchmarks now. Already finding issues.",
+      "today": "Continue PHX-051 performance test suite — documenting all benchmark results. Flagging 2 bugs already.",
       "blockers": "None",
       "hasBlocker": false,
       "dependencies": "None",
-      "sprintRisk": "None",
+      "sprintRisk": "Dashboard performance is a UAT risk. Must be resolved before client UAT begins.",
       "ticketUpdates": [
         {
           "ticketId": "PHX-050",
@@ -143,18 +143,31 @@
         {
           "ticketId": "PHX-051",
           "description": "Dashboard load & performance testing",
-          "confirmedStatus": "In Development",
+          "confirmedStatus": "QA / Testing",
           "previousStatus": "To Do",
-          "percentComplete": "30%",
-          "notes": null
+          "percentComplete": "40%",
+          "notes": "In QA: 2 performance bugs found. Benchmarking p95 load times."
         }
       ],
       "ticketsDiscussed": [
         "PHX-050",
         "PHX-051"
       ],
-      "overallStatus": "On Track",
-      "scrumMasterNotes": null
+      "overallStatus": "At Risk",
+      "scrumMasterNotes": "James found performance issues in QA. Priya looped in. Monitoring closely.",
+      "qaUpdate": {
+        "ticketsInQA": [
+          "PHX-051"
+        ],
+        "bugsFound": 2,
+        "bugPriorities": [
+          "High",
+          "Medium"
+        ],
+        "qaBlocking": false,
+        "qaBlockingDescription": null,
+        "qaHealth": "At Risk"
+      }
     },
     "Priya Sharma": {
       "memberName": "Priya Sharma",
