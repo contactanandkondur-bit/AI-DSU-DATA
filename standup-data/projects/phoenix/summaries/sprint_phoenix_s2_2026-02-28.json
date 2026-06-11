@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s2",
   "date": "2026-02-28",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-002 and PHX-013 Done. Starting PHX-014 preview panel.",
       "today": "Continue PHX-014 document preview component. Good momentum this sprint.",
@@ -45,9 +44,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-004 and PHX-015 both Done. Strong sprint.",
       "today": "Wrapping up PHX-015. Clean sprint for backend.",
@@ -80,9 +78,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-016 Done. PHX-017 partially complete — steps 1-3 done, 4-6 carrying to Sprint 3.",
       "today": "Noting PHX-017 steps 4-6 will be Sprint 3 work.",
@@ -115,9 +112,8 @@
       "overallStatus": "At Risk",
       "scrumMasterNotes": "PHX-017 scope was underestimated. Carrying remainder to Sprint 3 as first priority."
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-008 and PHX-018 both Done. Good sprint for QA.",
       "today": "Sprint 2 regression complete — 98% pass rate.",
@@ -150,9 +146,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-010 Done. PHX-019 versioning 60% complete — carrying final 40% to Sprint 3.",
       "today": "Complete what I can on PHX-019 today. Will hand off context for Sprint 3.",
@@ -185,9 +180,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-28",
       "yesterday": "PHX-020 Done. PHX-021 partially complete — SAST working, DAST deferred.",
       "today": "Noting DAST integration carrying to Sprint 3.",
