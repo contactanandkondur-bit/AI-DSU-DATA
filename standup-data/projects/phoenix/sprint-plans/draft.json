@@ -1,5 +1,5 @@
 {
-  "lastCompletedStep": 2,
+  "lastCompletedStep": 3,
   "sprintName": "Sprint 6 — UAT & Launch Readiness",
   "startDate": "2026-06-16",
   "endDate": "2026-06-27",
@@ -62,7 +62,7 @@
       "description": "Transaction fetch & sync service",
       "status": "In Development",
       "assignedTo": "Raj Patel",
-      "remainingSP": 5,
+      "remainingSP": 2,
       "selected": true
     },
     {
@@ -90,7 +90,7 @@
       "selected": true
     }
   ],
-  "totalSpilloverSP": 16,
+  "totalSpilloverSP": 13,
   "backlogTickets": [
     {
       "ticketId": "PHX-056",
@@ -184,6 +184,6 @@
     }
   ],
   "createdAt": "2026-06-09T10:00:00.000Z",
-  "updatedAt": "2026-06-11T11:26:54.763Z",
+  "updatedAt": "2026-06-11T11:28:31.573Z",
   "totalCommittedSP": 63
 }
