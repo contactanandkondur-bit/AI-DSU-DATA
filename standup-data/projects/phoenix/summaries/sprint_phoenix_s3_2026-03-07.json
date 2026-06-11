@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s3",
   "date": "2026-03-07",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-014 preview panel Done. PHX-022 KYC UI 50% — forms and validation working.",
       "today": "Complete PHX-022 KYC UI and start PHX-023 AML risk display.",
@@ -46,9 +45,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-024 KYC API 60% — identity verification, document cross-check working.",
       "today": "Complete KYC API and start PHX-025 AML risk engine.",
@@ -81,9 +79,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-017 onboarding wizard fully Done — all 6 steps working with validation.",
       "today": "Start PHX-026 onboarding wizard steps 4-6 polish and accessibility.",
@@ -116,9 +113,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-027 KYC/AML test scenarios 65% — covering all FCA-mandated edge cases.",
       "today": "Complete PHX-027 and start PHX-028 edge case coverage.",
@@ -151,9 +147,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-019 Done. PHX-029 compliance audit log 50% — event sourcing pattern working.",
       "today": "Continue PHX-029 audit log — add event filtering and export.",
@@ -186,9 +181,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-03-07",
       "yesterday": "PHX-021 Done — SAST, DAST and secrets detection all running. Starting PHX-030.",
       "today": "Start PHX-030 pen-test remediation — priority is 3 high-severity findings.",
