@@ -2,9 +2,9 @@
   "sprintId": "sprint_phoenix_s4",
   "date": "2026-05-05",
   "updates": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "submittedAt": "2026-05-05T09:26:00.000Z",
+      "submittedAt": "2026-05-05T09:12:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -36,9 +36,9 @@
         }
       ]
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "submittedAt": "2026-05-05T09:15:00.000Z",
+      "submittedAt": "2026-05-05T09:18:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -70,9 +70,9 @@
         }
       ]
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "submittedAt": "2026-05-05T09:42:00.000Z",
+      "submittedAt": "2026-05-05T09:14:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -104,9 +104,9 @@
         }
       ]
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "submittedAt": "2026-05-05T09:30:00.000Z",
+      "submittedAt": "2026-05-05T09:43:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -138,9 +138,9 @@
         }
       ]
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "submittedAt": "2026-05-05T09:32:00.000Z",
+      "submittedAt": "2026-05-05T09:42:00.000Z",
       "messages": [
         {
           "role": "assistant",
@@ -172,9 +172,9 @@
         }
       ]
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "submittedAt": "2026-05-05T09:38:00.000Z",
+      "submittedAt": "2026-05-05T09:16:00.000Z",
       "messages": [
         {
           "role": "assistant",
