@@ -2,9 +2,8 @@
   "sprintId": "sprint_phoenix_s1",
   "date": "2026-02-07",
   "summaries": {
-    "sarah.mitchell@deloitte.com": {
+    "Sarah Mitchell": {
       "memberName": "Sarah Mitchell",
-      "memberEmail": "sarah.mitchell@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "Completed PHX-001 login UI — all happy-path flows working. Started PHX-002 MFA screens.",
       "today": "Continue PHX-002 MFA screens — targeting 60% today. Will flag OTP dependency.",
@@ -37,9 +36,8 @@
       "overallStatus": "At Risk",
       "scrumMasterNotes": "OTP blocker flagged to client. Sarah to continue other tasks while waiting."
     },
-    "raj.patel@deloitte.com": {
+    "Raj Patel": {
       "memberName": "Raj Patel",
-      "memberEmail": "raj.patel@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "PHX-003 authentication API 70% — login, logout and refresh endpoints working.",
       "today": "Complete PHX-003 auth API and write unit tests.",
@@ -72,9 +70,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "emma.clarke@deloitte.com": {
+    "Emma Clarke": {
       "memberName": "Emma Clarke",
-      "memberEmail": "emma.clarke@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "PHX-005 Done — shell, nav, and route guards all working. Started PHX-006 design system.",
       "today": "Build shared Button, Card, Modal components for PHX-006.",
@@ -107,9 +104,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "james.wu@deloitte.com": {
+    "James Wu": {
       "memberName": "James Wu",
-      "memberEmail": "james.wu@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "PHX-007 framework complete — parallel test execution working. Starting PHX-008 auth tests.",
       "today": "Write auth acceptance tests for login, logout, token refresh.",
@@ -142,9 +138,8 @@
       "overallStatus": "On Track",
       "scrumMasterNotes": null
     },
-    "priya.sharma@deloitte.com": {
+    "Priya Sharma": {
       "memberName": "Priya Sharma",
-      "memberEmail": "priya.sharma@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "PHX-009 upload API 65% — multi-part upload and presigned URLs working.",
       "today": "Complete upload endpoint and write integration tests.",
@@ -177,9 +172,8 @@
       "overallStatus": "Blocked",
       "scrumMasterNotes": "Second blocker this sprint. Pattern emerging — client not providing credentials on time. Anand to raise formally with Apex Bank PMO."
     },
-    "tom.bradley@deloitte.com": {
+    "Tom Bradley": {
       "memberName": "Tom Bradley",
-      "memberEmail": "tom.bradley@deloitte.com",
       "date": "2026-02-07",
       "yesterday": "PHX-011 environments fully provisioned. IaC templates committed. Starting PHX-012 CI/CD.",
       "today": "Set up GitHub Actions pipeline for PHX-012.",
