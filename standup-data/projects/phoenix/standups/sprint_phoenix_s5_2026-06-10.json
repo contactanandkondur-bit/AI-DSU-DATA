@@ -1,0 +1,210 @@
+{
+  "sprintId": "sprint_phoenix_s5",
+  "date": "2026-06-10",
+  "updates": {
+    "Sarah Mitchell": {
+      "memberName": "Sarah Mitchell",
+      "submittedAt": "2026-06-10T09:25:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Sarah! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-044 Done! Raj reviewed and approved. Merged this morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 5 retrospective prep. All Sarah tickets Done."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Sarah, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "Raj Patel": {
+      "memberName": "Raj Patel",
+      "submittedAt": "2026-06-10T09:23:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Raj! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-046 Done! Webhook integration complete and integration tests passing."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 5 all tickets Done for Raj. Helping team with retro prep."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Raj, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "Emma Clarke": {
+      "memberName": "Emma Clarke",
+      "submittedAt": "2026-06-10T09:48:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Emma! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "All sprint tickets Done. Picked up accessibility backlog items."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 5 complete for Emma. Starting Sprint 6 planning review."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Emma, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "James Wu": {
+      "memberName": "James Wu",
+      "submittedAt": "2026-06-10T09:29:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning James! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Priya's PHX-053 fix merged last night. Re-ran all PHX-051 performance benchmarks this morning. Dashboard now 280ms p95. UNBLOCKED!"
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Complete PHX-051 final QA sign-off. Then begin Sprint 5 retro documentation."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks James, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "Priya Sharma": {
+      "memberName": "Priya Sharma",
+      "submittedAt": "2026-06-10T09:41:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Priya! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-053 merged and deployed last night. James confirmed p95 load dropped from 8.2s to 280ms. Fix is solid."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 5 all tickets Done for Priya. Writing performance improvement summary doc."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Priya, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    },
+    "Tom Bradley": {
+      "memberName": "Tom Bradley",
+      "submittedAt": "2026-06-10T09:16:00.000Z",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Good morning Tom! Ready for your standup? What did you work on yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "PHX-055 Done! All alerting rules and runbooks complete. Production infrastructure fully monitored."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's your focus today?"
+        },
+        {
+          "role": "user",
+          "content": "Sprint 5 complete for Tom. Monitoring dashboards handed over to client ops team."
+        },
+        {
+          "role": "assistant",
+          "content": "Any blockers or dependencies to flag?"
+        },
+        {
+          "role": "user",
+          "content": "No blockers today, all clear."
+        },
+        {
+          "role": "assistant",
+          "content": "Thanks Tom, great update. Have a productive day!\nSTANDUP_COMPLETE"
+        }
+      ]
+    }
+  }
+}
