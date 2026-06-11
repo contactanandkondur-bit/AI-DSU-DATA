@@ -1,0 +1,241 @@
+{
+  "sprintId": "sprint_phoenix_s5",
+  "date": "2026-06-10",
+  "summaries": {
+    "Sarah Mitchell": {
+      "memberName": "Sarah Mitchell",
+      "date": "2026-06-10",
+      "yesterday": "PHX-044 Done! Raj reviewed and approved. Merged this morning.",
+      "today": "Sprint 5 retrospective prep. All Sarah tickets Done.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-037",
+          "description": "Responsive table & filter components",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-043",
+          "description": "Client portal dashboard (main view)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-044",
+          "description": "Notification centre & alerts UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Merged after Raj code review — Done!"
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-037",
+        "PHX-043",
+        "PHX-044"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "Raj Patel": {
+      "memberName": "Raj Patel",
+      "date": "2026-06-10",
+      "yesterday": "PHX-046 Done! Webhook integration complete and integration tests passing.",
+      "today": "Sprint 5 all tickets Done for Raj. Helping team with retro prep.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-045",
+          "description": "Core Banking API connector (Apex Bank)",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-046",
+          "description": "Transaction fetch & sync service",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Webhook real-time sync complete. Integration tests passing."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-045",
+        "PHX-046"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "Emma Clarke": {
+      "memberName": "Emma Clarke",
+      "date": "2026-06-10",
+      "yesterday": "All sprint tickets Done. Picked up accessibility backlog items.",
+      "today": "Sprint 5 complete for Emma. Starting Sprint 6 planning review.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-047",
+          "description": "Account overview & balance UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-048",
+          "description": "Transaction history & search UI",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-049",
+          "description": "Mobile-responsive layout audit",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": null
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-047",
+        "PHX-048",
+        "PHX-049"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    },
+    "James Wu": {
+      "memberName": "James Wu",
+      "date": "2026-06-10",
+      "yesterday": "Priya's PHX-053 fix merged last night. Re-ran all PHX-051 performance benchmarks this morning. Dashboard now 280ms p95. UNBLOCKED!",
+      "today": "Complete PHX-051 final QA sign-off. Then begin Sprint 5 retro documentation.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-050",
+          "description": "API integration test suite",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-051",
+          "description": "Dashboard load & performance testing",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Unblocked after PHX-053 fix. p95 load: 8.2s → 280ms. All benchmarks passing. QA sign-off complete."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-050",
+        "PHX-051"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "QA blocker fully resolved. PHX-051 Done. Sprint 5 on track for completion.",
+      "qaUpdate": {
+        "ticketsInQA": [
+          "PHX-051"
+        ],
+        "bugsFound": 3,
+        "bugPriorities": [
+          "Critical",
+          "High"
+        ],
+        "qaBlocking": false,
+        "qaBlockingDescription": null,
+        "qaHealth": "On Track"
+      }
+    },
+    "Priya Sharma": {
+      "memberName": "Priya Sharma",
+      "date": "2026-06-10",
+      "yesterday": "PHX-053 merged and deployed last night. James confirmed p95 load dropped from 8.2s to 280ms. Fix is solid.",
+      "today": "Sprint 5 all tickets Done for Priya. Writing performance improvement summary doc.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-052",
+          "description": "API gateway & rate-limiting layer",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-053",
+          "description": "Dashboard query performance fix",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "N+1 query fixed. Eager loading + query batching. p95: 8.2s → 280ms. 97% improvement."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-052",
+        "PHX-053"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": "PHX-053 fix verified by James. Sprint 5 velocity on track. Ready for UAT sprint."
+    },
+    "Tom Bradley": {
+      "memberName": "Tom Bradley",
+      "date": "2026-06-10",
+      "yesterday": "PHX-055 Done! All alerting rules and runbooks complete. Production infrastructure fully monitored.",
+      "today": "Sprint 5 complete for Tom. Monitoring dashboards handed over to client ops team.",
+      "blockers": "None",
+      "hasBlocker": false,
+      "dependencies": "None",
+      "sprintRisk": "None",
+      "ticketUpdates": [
+        {
+          "ticketId": "PHX-054",
+          "description": "Production infrastructure provisioning",
+          "confirmedStatus": "Done",
+          "previousStatus": "In Development",
+          "percentComplete": "100%",
+          "notes": null
+        },
+        {
+          "ticketId": "PHX-055",
+          "description": "Monitoring, logging & alerting setup",
+          "confirmedStatus": "Done",
+          "previousStatus": "To Do",
+          "percentComplete": "100%",
+          "notes": "Full CloudWatch + PagerDuty + runbooks complete. Handover to client ops done."
+        }
+      ],
+      "ticketsDiscussed": [
+        "PHX-054",
+        "PHX-055"
+      ],
+      "overallStatus": "On Track",
+      "scrumMasterNotes": null
+    }
+  }
+}
