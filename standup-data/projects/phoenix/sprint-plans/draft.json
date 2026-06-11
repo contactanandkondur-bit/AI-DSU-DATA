@@ -1,5 +1,5 @@
 {
-  "lastCompletedStep": 3,
+  "lastCompletedStep": 4,
   "sprintName": "Sprint 6 — UAT & Launch Readiness",
   "startDate": "2026-06-16",
   "endDate": "2026-06-27",
@@ -108,7 +108,7 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "james.wu@deloitte.com",
-      "selected": true
+      "selected": false
     },
     {
       "ticketId": "PHX-058",
@@ -171,7 +171,7 @@
       "priority": "Medium",
       "epic": "UAT & Launch",
       "assignedTo": "tom.bradley@deloitte.com",
-      "selected": false
+      "selected": true
     },
     {
       "ticketId": "PHX-065",
@@ -184,6 +184,6 @@
     }
   ],
   "createdAt": "2026-06-09T10:00:00.000Z",
-  "updatedAt": "2026-06-11T11:28:31.573Z",
-  "totalCommittedSP": 63
+  "updatedAt": "2026-06-11T11:29:33.384Z",
+  "totalCommittedSP": 55
 }
