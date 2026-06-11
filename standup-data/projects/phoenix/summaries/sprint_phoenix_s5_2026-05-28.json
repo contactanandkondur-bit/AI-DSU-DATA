@@ -154,7 +154,8 @@
         "PHX-051"
       ],
       "overallStatus": "On Track",
-      "scrumMasterNotes": null
+      "scrumMasterNotes": null,
+      "qaUpdate": null
     },
     "Priya Sharma": {
       "memberName": "Priya Sharma",
