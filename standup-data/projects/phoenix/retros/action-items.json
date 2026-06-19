@@ -85,9 +85,10 @@
     "sprintName": "Sprint 3 — KYC/AML Compliance",
     "text": "Formally allocate 10% of each sprint capacity for technical debt reduction — add tech debt stories to the backlog",
     "owner": "Team",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-03-14T11:15:00.000Z",
-    "deferredFrom": null
+    "deferredFrom": null,
+    "updatedAt": "2026-06-19T06:45:11.637Z"
   },
   {
     "id": "ai_s4_001",
