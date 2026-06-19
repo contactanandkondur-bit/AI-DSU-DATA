@@ -1,5 +1,5 @@
 {
-  "lastCompletedStep": 1,
+  "lastCompletedStep": 2,
   "sprintName": "Sprint 6 — UAT & Launch Readiness",
   "startDate": "2026-06-16",
   "endDate": "2026-06-27",
@@ -13,8 +13,8 @@
     {
       "name": "Raj Patel",
       "baseCapacity": 18,
-      "holidays": 2,
-      "availableSP": 16
+      "holidays": 0,
+      "availableSP": 18
     },
     {
       "name": "Emma Clarke",
@@ -25,14 +25,14 @@
     {
       "name": "James Wu",
       "baseCapacity": 15,
-      "holidays": 1,
-      "availableSP": 14
+      "holidays": 0,
+      "availableSP": 15
     },
     {
       "name": "Priya Sharma",
       "baseCapacity": 18,
-      "holidays": 0,
-      "availableSP": 18
+      "holidays": 3,
+      "availableSP": 15
     },
     {
       "name": "Tom Bradley",
@@ -178,5 +178,5 @@
     }
   ],
   "createdAt": "2026-06-09T10:00:00.000Z",
-  "updatedAt": "2026-06-19T06:41:04.959Z"
+  "updatedAt": "2026-06-19T06:41:48.932Z"
 }
