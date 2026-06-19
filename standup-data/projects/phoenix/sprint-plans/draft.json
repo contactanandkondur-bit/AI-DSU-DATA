@@ -1,5 +1,5 @@
 {
-  "lastCompletedStep": 3,
+  "lastCompletedStep": 4,
   "sprintName": "Sprint 6 — UAT & Launch Readiness",
   "startDate": "2026-06-16",
   "endDate": "2026-06-27",
@@ -93,7 +93,10 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "Tom Bradley",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Tom Bradley",
+      "backendSP": 3,
+      "frontendSP": 2
     },
     {
       "ticketId": "PHX-057",
@@ -102,7 +105,8 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "James Wu",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "James Wu"
     },
     {
       "ticketId": "PHX-058",
@@ -111,7 +115,8 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "Sarah Mitchell",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Sarah Mitchell"
     },
     {
       "ticketId": "PHX-059",
@@ -120,7 +125,8 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "Raj Patel",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Raj Patel"
     },
     {
       "ticketId": "PHX-060",
@@ -129,7 +135,8 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "James Wu",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "James Wu"
     },
     {
       "ticketId": "PHX-061",
@@ -138,7 +145,8 @@
       "priority": "Medium",
       "epic": "UAT & Launch",
       "assignedTo": "Priya Sharma",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Priya Sharma"
     },
     {
       "ticketId": "PHX-062",
@@ -147,7 +155,8 @@
       "priority": "Medium",
       "epic": "UAT & Launch",
       "assignedTo": "Emma Clarke",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Emma Clarke"
     },
     {
       "ticketId": "PHX-063",
@@ -156,7 +165,8 @@
       "priority": "High",
       "epic": "UAT & Launch",
       "assignedTo": "Sarah Mitchell",
-      "selected": true
+      "selected": true,
+      "backendAssignee": "Sarah Mitchell"
     },
     {
       "ticketId": "PHX-064",
@@ -165,7 +175,8 @@
       "priority": "Medium",
       "epic": "UAT & Launch",
       "assignedTo": "Tom Bradley",
-      "selected": false
+      "selected": false,
+      "backendAssignee": "Tom Bradley"
     },
     {
       "ticketId": "PHX-065",
@@ -178,5 +189,6 @@
     }
   ],
   "createdAt": "2026-06-09T10:00:00.000Z",
-  "updatedAt": "2026-06-19T06:42:25.565Z"
+  "updatedAt": "2026-06-19T06:42:53.305Z",
+  "totalCommittedSP": 55
 }
