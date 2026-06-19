@@ -552,7 +552,7 @@
     "windowStart": "07:00",
     "windowEnd": "20:00",
     "pinDisplay": "123456",
-    "closed": false,
+    "closed": true,
     "createdAt": "2026-05-26T08:00:00.000Z",
     "goal": "Integrate Core Banking API, complete client portal dashboard, and prepare for UAT.",
     "committedSP": 88,
@@ -686,6 +686,7 @@
           }
         ]
       }
-    ]
+    ],
+    "closedAt": "2026-06-19T06:23:56.252Z"
   }
 ]
